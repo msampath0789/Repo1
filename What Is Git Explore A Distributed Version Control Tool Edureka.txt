@@ -1,0 +1,2809 @@
+Subscribe // <https://www.edureka.co/>
+
+  *
+    Training in Top Technologies // <javascript:void(0);>DevOps
+    Certification Training
+    <https://www.edureka.co/devops-certification-training> AWS Architect
+    Certification Training
+    <https://www.edureka.co/aws-certification-training> Big Data Hadoop
+    Certification Training
+    <https://www.edureka.co/big-data-hadoop-training-certification>
+    Tableau Training & Certification
+    <https://www.edureka.co/tableau-certification-training> Python
+    Certification Training for Data Science
+    <https://www.edureka.co/data-science-python-certification-course>
+    Selenium Certification Training
+    <https://www.edureka.co/selenium-certification-training> PMP®
+    Certification Exam Training
+    <https://www.edureka.co/pmp-certification-exam-training> Robotic
+    Process Automation Training using UiPath
+    <https://www.edureka.co/robotic-process-automation-training> Apache
+    Spark and Scala Certification Training
+    <https://www.edureka.co/apache-spark-scala-certification-training>
+    All Courses <https://www.edureka.co/all-courses>
+  *
+    Career Related Programs // <javascript:void(0);>Data Scienctist
+    Masters Program
+    <https://www.edureka.co/masters-program/data-scientist-certification> Devops Engineer Masters Program <https://www.edureka.co/masters-program/devops-engineer-training> Cloud Architect Masters Program <https://www.edureka.co/masters-program/cloud-architect-training> BIg Data Architect Masters Program <https://www.edureka.co/masters-program/big-data-architect-training> Machine Learning Engineer Masters Program <https://www.edureka.co/masters-program/machine-learning-engineer-training> Full Stack Web Developer Masters Program <https://www.edureka.co/masters-program/full-stack-developer-training> Business Intelligence Masters Program <https://www.edureka.co/masters-program/business-intelligence-certification> Data Analyst Masters Program <https://www.edureka.co/masters-program/data-analyst-certification> Test Automation Engineer Masters Program <https://www.edureka.co/masters-program/automation-testing-engineer-training> All Programs <https://www.edureka.co/search?cl[]=584&cl[]=520&cl[]=585&cl[]=781&cl[]=457&cl[]=468&cl[]=479&cl[]=482>
+  * Webinars <https://www.edureka.co/webinars>
+  * Ebook NEW <https://www.edureka.co/blog/ebook/> 
+
+  * Write for Us <https://resources.edureka.co/write-for-us/>
+  * Explore Online Courses <https://www.edureka.co/all-courses>
+  * Subscribe
+  * Become a Certified Professional //
+    <https://www.edureka.co/devops-certification-training> 
+
+  * // Back
+  * Home <https://www.edureka.co/blog/>
+  * Categories //
+  * Online Courses <https://www.edureka.co/all-courses>
+  * Webinars <https://www.edureka.co/webinars>
+  * Ebook NEW <https://www.edureka.co/blog/ebook/>
+  * Community <https://www.edureka.co/community>
+  * Write for Us <https://resources.edureka.co/write-for-us/> 
+
+  * // Categories
+  * Artificial Intelligence
+    /
+
+    / <#show_category_400>
+    AI vs Machine Learning vs Deep Learning
+    <https://www.edureka.co/blog/ai-vs-machine-learning-vs-deep-learning/>Machine Learning Algorithms <https://www.edureka.co/blog/machine-learning-algorithms/>Artificial Intelligence Tutorial <https://www.edureka.co/blog/artificial-intelligence-tutorial/>What is Deep Learning <https://www.edureka.co/blog/what-is-deep-learning>Deep Learning Tutorial <https://www.edureka.co/blog/deep-learning-tutorial>Install TensorFlow <https://www.edureka.co/blog/install-tensorflow>Deep Learning with Python <https://www.edureka.co/blog/deep-learning-with-python/>Backpropagation <https://www.edureka.co/blog/backpropagation/>TensorFlow Tutorial <https://www.edureka.co/blog/tensorflow-tutorial/>Convolutional Neural Network Tutorial <https://www.edureka.co/blog/convolutional-neural-network/>VIEW ALL <https://www.edureka.co/blog/category/artificial-intelligence/>
+  * BI and Visualization
+    /
+
+    / <#show_category_149>
+    What is Tableau
+    <https://www.edureka.co/blog/what-is-tableau/>Tableau Tutorial
+    <https://www.edureka.co/blog/tableau-tutorial/>Tableau Interview
+    Questions
+    <https://www.edureka.co/blog/interview-questions/top-tableau-interview-questions-and-answers/>What is Informatica <https://www.edureka.co/blog/what-is-informatica/>Informatica Interview Questions <https://www.edureka.co/blog/interview-questions/top-informatica-interview-questions-2016/>Power BI Tutorial <https://www.edureka.co/blog/power-bi-tutorial/>Power BI Interview Questions <https://www.edureka.co/blog/interview-questions/power-bi-interview-questions/>OLTP vs OLAP <https://www.edureka.co/blog/oltp-vs-olap/>QlikView Tutorial <https://www.edureka.co/blog/qlikview-tutorial/>Advanced Excel Formulas Tutorial <https://www.edureka.co/blog/tutorial-on-advanced-excel-formulas/>VIEW ALL <https://www.edureka.co/blog/category/business-intelligence/>
+  * Big Data
+    /
+
+    / <#show_category_142>
+    What is Hadoop <https://www.edureka.co/blog/what-is-hadoop/>Hadoop
+    Architecture
+    <https://www.edureka.co/blog/introduction-of-hadoop-architecture/>Hadoop Tutorial <https://www.edureka.co/blog/hadoop-tutorial/>Hadoop Interview Questions <https://www.edureka.co/blog/interview-questions/top-hadoop-interview-questions>Hadoop Ecosystem <https://www.edureka.co/blog/hadoop-ecosystem>Data Science vs Big Data vs Data Analytics <https://www.edureka.co/blog/data-science-vs-big-data-vs-data-analytics/>What is Big Data <https://www.edureka.co/blog/what-is-big-data/>MapReduce Tutorial <https://www.edureka.co/blog/mapreduce-tutorial/>Pig Tutorial <https://www.edureka.co/blog/pig-tutorial/>Spark Tutorial <https://www.edureka.co/blog/spark-tutorial/>Spark Interview Questions <https://www.edureka.co/blog/interview-questions/top-apache-spark-interview-questions-2016/>Big Data Tutorial <https://www.edureka.co/blog/big-data-tutorial>Hive Tutorial <https://www.edureka.co/blog/hive-tutorial/>VIEW ALL <https://www.edureka.co/blog/category/big-data-analytics/>
+  * Blockchain
+    /
+
+    / <#show_category_398>
+    Blockchain Tutorial
+    <https://www.edureka.co/blog/blockchain-tutorial/>What is Blockchain
+    <https://www.edureka.co/blog/what-is-blockchain/>Hyperledger Fabric
+    <https://www.edureka.co/blog/hyperledger-fabric/>What Is Ethereum
+    <https://www.edureka.co/blog/what-is-ethereum/>Ethereum Tutorial
+    <https://www.edureka.co/blog/ethereum-tutorial-with-smart-contracts/>Blockchain Applications <https://www.edureka.co/blog/blockchain-applications/>Solidity Tutorial <https://www.edureka.co/blog/solidity-tutorial/>Blockchain Programming <https://www.edureka.co/blog/blockchain-programming>How Blockchain Works <https://www.edureka.co/blog/how-blockchain-works/>VIEW ALL <https://www.edureka.co/blog/category/blockchain/>
+  * Cloud Computing
+    /
+
+    / <#show_category_41>
+    What is AWS <https://www.edureka.co/blog/what-is-aws/>AWS Tutorial
+    <https://www.edureka.co/blog/amazon-aws-tutorial/>AWS Certification
+    <https://www.edureka.co/blog/aws-certification-careers/>Azure
+    Interview Questions
+    <https://www.edureka.co/blog/interview-questions/azure-interview-questions/>Azure Tutorial <https://www.edureka.co/blog/microsoft-azure-tutorial>What Is Cloud Computing <https://www.edureka.co/blog/what-is-cloud-computing/>What Is Salesforce <https://www.edureka.co/blog/what-is-salesforce/>IoT Tutorial <https://www.edureka.co/blog/iot-tutorial/>Salesforce Tutorial <https://www.edureka.co/blog/salesforce-tutorial>Salesforce Interview Questions <https://www.edureka.co/blog/interview-questions/salesforce-interview-questions/>VIEW ALL <https://www.edureka.co/blog/category/cloud-computing/>
+  * Cyber Security
+    /
+
+    / <#show_category_714>
+    Cloud Security <https://www.edureka.co/blog/cloud-security/>What is
+    Cryptography <https://www.edureka.co/blog/what-is-cryptography/>Nmap
+    Tutorial <https://www.edureka.co/blog/nmap-tutorial/>SQL Injection
+    Attacks <https://www.edureka.co/blog/sql-injection-attack>How To
+    Install Kali Linux
+    <https://www.edureka.co/blog/how-to-install-kali-linux/>How to
+    become an Ethical Hacker?
+    <https://www.edureka.co/blog/how-to-become-an-ethical-hacker/>Footprinting in Ethical Hacking <https://www.edureka.co/blog/footprinting-ethical-hacking-kali-linux/>Network Scanning for Ethical Hacking <https://www.edureka.co/blog/network-scanning-kali-ethical-hacking/>ARP Spoofing <https://www.edureka.co/blog/python-arp-spoofer-for-ethical-hacking>Application Security <https://www.edureka.co/blog/application-security-tutorial/>VIEW ALL <https://www.edureka.co/blog/category/cyber-security/>
+  * Data Science
+    /
+
+    / <#show_category_48>
+    Python Pandas Tutorial
+    <https://www.edureka.co/blog/python-pandas-tutorial/>What is Machine
+    Learning
+    <https://www.edureka.co/blog/what-is-machine-learning/>Machine
+    Learning Tutorial
+    <https://www.edureka.co/blog/machine-learning-tutorial/>Machine
+    Learning Projects
+    <https://www.edureka.co/blog/machine-learning-projects/>Machine
+    Learning Interview Questions
+    <https://www.edureka.co/blog/interview-questions/machine-learning-interview-questions/>What Is Data Science <https://www.edureka.co/blog/what-is-data-science/>SAS Tutorial <https://www.edureka.co/blog/sas-tutorial/>R Tutorial <https://www.edureka.co/blog/r-tutorial/>Data Science Projects <https://www.edureka.co/blog/data-science-projects/>How to become a data scientist <https://www.edureka.co/blog/data-scientist-skills/>Data Science Interview Questions <https://www.edureka.co/blog/interview-questions/data-science-interview-questions/>Data Scientist Salary <https://www.edureka.co/blog/data-scientist-salary/>VIEW ALL <https://www.edureka.co/blog/category/data-science/>
+  * Data Warehousing and ETL
+    /
+
+    / <#show_category_96>
+    What is Data Warehouse
+    <https://www.edureka.co/blog/a-brief-on-data-warehouse/>Dimension
+    Table in Data Warehousing
+    <https://www.edureka.co/blog/dimension-table-in-data-warehousing/>Data Warehousing Interview Questions <https://www.edureka.co/blog/interview-questions/data-warehousing-interview-questions-and-answers/>Data warehouse architecture <https://www.edureka.co/blog/architecture-of-a-data-warehouse/>Talend Tutorial <https://www.edureka.co/blog/talend-tutorial-data-integration/>Talend ETL Tool <https://www.edureka.co/blog/talend-etl-tool/>Talend Interview Questions <https://www.edureka.co/blog/interview-questions/talend-interview-questions/>Fact Table and its Types <https://www.edureka.co/blog/fact-table-and-its-types-in-data-warehousing/>Informatica Transformations <https://www.edureka.co/blog/informatica-transformations/>Informatica Tutorial <https://www.edureka.co/blog/informatica-tutorial>VIEW ALL <https://www.edureka.co/blog/category/data-warehousing-and-etl/>
+  * Databases
+    /
+
+    / <#show_category_70>
+    What is MySQL <https://www.edureka.co/blog/what-is-mysql/>MySQL Data
+    Types <https://www.edureka.co/blog/mysql-data-types/>SQL Joins
+    <https://www.edureka.co/blog/sql-joins-types>SQL Data Types
+    <https://www.edureka.co/blog/sql-data-types/>What is MongoDB
+    <https://www.edureka.co/blog/mongodb-the-database-for-big-data-processing/>MongoDB Interview Questions <https://www.edureka.co/blog/mongodb-interview-questions-for-beginners-and-professionals>MySQL Tutorial <https://www.edureka.co/blog/mysql-tutorial/>SQL Interview Questions <https://www.edureka.co/blog/interview-questions/sql-interview-questions>SQL Commands <https://www.edureka.co/blog/sql-commands>MySQL Interview Questions <https://www.edureka.co/blog/interview-questions/mysql-interview-questions/>VIEW ALL <https://www.edureka.co/blog/category/databases/>
+  * DevOps
+    /
+
+    / <#show_category_80>
+    What is DevOps <https://www.edureka.co/blog/what-is-devops/>DevOps
+    vs Agile
+    <https://www.edureka.co/blog/devops-vs-agile-everything-you-need-to-know/>DevOps Tools <https://www.edureka.co/blog/top-10-devops-tools/>DevOps Tutorial <https://www.edureka.co/blog/devops-tutorial>How To Become A DevOps Engineer <https://www.edureka.co/blog/how-to-become-a-devops-engineer/>DevOps Interview Questions <https://www.edureka.co/blog/interview-questions/top-devops-interview-questions/>What Is Docker <https://www.edureka.co/blog/what-is-docker-container>Docker Tutorial <https://www.edureka.co/blog/docker-tutorial>Docker Interview Questions <https://www.edureka.co/blog/interview-questions/docker-interview-questions/>What Is Chef <https://www.edureka.co/blog/what-is-chef/>What Is Kubernetes <https://www.edureka.co/blog/what-is-kubernetes-container-orchestration>Kubernetes Tutorial <https://www.edureka.co/blog/kubernetes-tutorial/>VIEW ALL <https://www.edureka.co/blog/category/devops/>
+  * Front End Web Development
+    /
+
+    / <#show_category_79>
+    What is JavaScript – All You Need To Know About JavaScript
+    <https://www.edureka.co/blog/what-is-javascript/>JavaScript Tutorial
+    <https://www.edureka.co/blog/javascript-tutorial/>JavaScript
+    Interview Questions
+    <https://www.edureka.co/blog/interview-questions/javascript-interview-questions/>JavaScript Frameworks <https://www.edureka.co/blog/top-10-javascript-frameworks/>Angular Tutorial <https://www.edureka.co/blog/angular-tutorial/>Angular Interview Questions <https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions/>What is REST API? <https://www.edureka.co/blog/what-is-rest-api/>React Tutorial <https://www.edureka.co/blog/reactjs-tutorial>React vs Angular <https://www.edureka.co/blog/react-vs-angular>jQuery Tutorial <https://www.edureka.co/blog/jquery-tutorial/>Node Tutorial <https://www.edureka.co/blog/nodejs-tutorial/>React Interview Questions <https://www.edureka.co/blog/interview-questions/react-interview-questions/>VIEW ALL <https://www.edureka.co/blog/category/front-end-web-development/>
+  * Mobile Development
+    /
+
+    / <#show_category_152>
+    Android Tutorial
+    <https://www.edureka.co/blog/android-tutorial/>Android Interview
+    Questions
+    <https://www.edureka.co/blog/interview-questions/top-android-interview-questions-for-beginners/>Android Architecture <https://www.edureka.co/blog/beginners-guide-android-architecture/>Android SQLite Database <https://www.edureka.co/blog/introduction-on-android-sqlite-database/>Programming & Frameworks <https://www.edureka.co/blog/category/programming-and-frameworks/>Android Adapter Tutorial <https://www.edureka.co/blog/what-are-adapters-in-android/>Cursor in Android <https://www.edureka.co/blog/introduction-to-cursor-in-android/>Swift Tutorial <https://www.edureka.co/blog/swift-tutorial>iOS Interview Questions <https://www.edureka.co/blog/interview-questions/ios-interview-questions/>VIEW ALL <https://www.edureka.co/blog/category/mobile-development/>
+  * Operating Systems
+    /
+
+    / <#show_category_151>
+    Linux Tutorial <https://www.edureka.co/blog/linux-tutorial/>Unix vs
+    Linux <https://www.edureka.co/blog/unix-vs-linux/>How to Install
+    Ubuntu <https://www.edureka.co/blog/how-to-install-ubuntu/>Shell
+    Scripting Interviews
+    <https://www.edureka.co/blog/interview-questions/shell-scripting-interview-questions/>Install JDK on Ubuntu <https://www.edureka.co/blog/how-to-install-java-on-ubuntu/>Linux Commands <https://www.edureka.co/blog/linux-commands/>Linux Administrator Responsibilities <https://www.edureka.co/blog/duties-of-a-linux-administrator/>Linux Career <https://www.edureka.co/blog/linux-making-the-right-career-choice>Why Learn Shell Scripting <https://www.edureka.co/blog/top-reasons-to-learn-unix-shell-scripting/>Linux Interview Questions <https://www.edureka.co/blog/interview-questions/linux-interview-questions-for-beginners/>VIEW ALL <https://www.edureka.co/blog/category/operating-systems/>
+  * Programming & Frameworks
+    /
+
+    / <#show_category_155>
+    C Programming Tutorial
+    <https://www.edureka.co/blog/c-programming-tutorial/>Java Tutorial
+    <https://www.edureka.co/blog/java-tutorial/>Inheritance in Java
+    <https://www.edureka.co/blog/inheritance-in-java/>Top Java Projects
+    you need to know in 2023
+    <https://www.edureka.co/blog/java-projects>Java Interview Questions
+    <https://www.edureka.co/blog/interview-questions/java-interview-questions/>What is the use of Destructor in Java? <https://www.edureka.co/blog/destructor-in-java/>Polymorphism in Java <https://www.edureka.co/blog/polymorphism-in-java/>Multithreading in Java <https://www.edureka.co/blog/java-thread/>All you Need to Know About Implements In Java <https://www.edureka.co/blog/implements-in-java/>Spring Interview Questions <https://www.edureka.co/blog/interview-questions/spring-interview-questions/>PHP Tutorial <https://www.edureka.co/blog/php-tutorial-for-beginners/>PHP Interview Questions <https://www.edureka.co/blog/interview-questions/php-interview-questions/>Python Tutorial <https://www.edureka.co/blog/python-tutorial/>Python Interview Questions <https://www.edureka.co/blog/interview-questions/python-interview-questions/>VIEW ALL <https://www.edureka.co/blog/category/programming-and-frameworks/>
+  * Project Management and Methodologies
+    /
+
+    / <#show_category_154>
+    PMP Exam
+    <https://www.edureka.co/blog/pmp-exam-all-you-need-to-know/>Project
+    Management Life Cycle
+    <https://www.edureka.co/blog/project-management-life-cycle/>Project
+    Manager Interview Questions
+    <https://www.edureka.co/blog/interview-questions/top-project-management-interview-questions/>Supply Chain Management <https://www.edureka.co/blog/supply-chain-management-101-all-you-need-to-know-about-eSCM>Project Manager Salary <https://www.edureka.co/blog/project-manager-salary/>PMP Exam Questions and Answers <https://www.edureka.co/blog/interview-questions/pmp-exam-questions-answers/>Earned Value Analysis in Project Management <https://www.edureka.co/blog/earned_value_analysis_in_project-management/>Project Management Office Setup <https://www.edureka.co/blog/how-to-set-up-a-project-management-office-in-your-organization>VIEW ALL <https://www.edureka.co/blog/category/project-management/>
+  * Robotic Process Automation
+    /
+
+    / <#show_category_404>
+    What Is RPA <https://www.edureka.co/blog/rpa-blue-prism/>Learn RPA
+    <https://www.edureka.co/blog/10-reasons-to-learn-rpa/>RPA Tools
+    <https://www.edureka.co/blog/rpa-tools-list-and-comparison/>Selenium
+    vs RPA <https://www.edureka.co/blog/selenium-vs-rpa/>RPA Developer
+    Salary <https://www.edureka.co/blog/rpa-developer-salary>Uipath
+    Orchestrator <https://www.edureka.co/blog/uipath-orchestrator/>RPA
+    Interview Questions
+    <https://www.edureka.co/blog/interview-questions/rpa-uipath-interview-questions/>UiPath RPA Architecture <https://www.edureka.co/blog/uipath-rpa-architecture/>RPA Projects <https://www.edureka.co/blog/rpa-projects>RPA Lifeycycle <https://www.edureka.co/blog/rpa-lifecycle>VIEW ALL <https://www.edureka.co/blog/category/robotic-process-automation/>
+  * Software Testing
+    /
+
+    / <#show_category_102>
+    What is Software Testing
+    <https://www.edureka.co/blog/what-is-software-testing/>Software
+    Testing Interview Questions
+    <https://www.edureka.co/blog/interview-questions/software-testing-interview-questions/>Software Testing Life Cycle <https://www.edureka.co/blog/software-testing-life-cycle/>Types of Software Testing <https://www.edureka.co/blog/types-of-software-testing/>Selenium Interview Questions <https://www.edureka.co/blog/interview-questions/selenium-interview-questions-answers/>Selenium Tutorial <https://www.edureka.co/blog/selenium-tutorial>JMeter Tutorial <https://www.edureka.co/blog/jmeter-tutorial/>Regression Testing <https://www.edureka.co/blog/regression-testing>Unit Testing <https://www.edureka.co/blog/what-is-unit-testing>Automation Testing Tutorial <https://www.edureka.co/blog/automation-testing-tutorial/>Functional Testing <https://www.edureka.co/blog/what-is-functional-testing/>Smoke Testing <https://www.edureka.co/blog/what-is-smoke-testing/>API Testing <https://www.edureka.co/blog/what-is-api-testing>Integration Testing <https://www.edureka.co/blog/what-is-integration-testing-a-simple-guide-on-how-to-perform-integration-testing/>Penetration Testing <https://www.edureka.co/blog/what-is-penetration-testing/>VIEW ALL <https://www.edureka.co/blog/category/software-testing/>
+
+ 1. Home <https://www.edureka.co/>
+ 2. Blog <https://www.edureka.co/blog/>
+ 3. DevOps <https://www.edureka.co/blog/category/devops/>
+ 4. What Is Git ? – Explore ... <https://www.edureka.co/blog/what-is-git/>
+
+DevOps (90 Blogs) Become a Certified Professional //
+<https://www.edureka.co/devops-certification-training>
+
+//DevOps
+
+
+          Introduction To DevOps
+          /
+
+          /
+
+  * What is DevOps? A Beginner's Guide To Understanding DevOps And Its
+    Evolution <https://www.edureka.co/blog/what-is-devops/>
+  * What Are Important Pre-Requisites For DevOps Professionals?
+    <https://www.edureka.co/blog/prerequisites-for-devops/>
+  * DevOps in various domains – How DevOps solves the problem?
+    <https://www.edureka.co/blog/devops-in-various-domains/>
+  * Top 5 Companies using DevOps in 2020 – All you need to know!
+    <https://www.edureka.co/blog/companies-using-devops/>
+  * DevOps Real Time Scenarios – Know What Happens Real Time
+    <https://www.edureka.co/blog/devops-real-time-scenarios/>
+  * Waterfall vs Agile: Which Is Better For You And Why?
+    <https://www.edureka.co/blog/waterfall-vs-agile/>
+  * DevOps vs Agile! Everything You Need To Know
+    <https://www.edureka.co/blog/devops-vs-agile-everything-you-need-to-know/>
+  * Mystery of DevOps <https://www.edureka.co/blog/mystery-of-devops/>
+  * Infrastructure as Code – What is it and Why is it it important?
+    <https://www.edureka.co/blog/infrastructure-as-code/>
+  * Linux commands in DevOps: Must Know For Every DevOps Professional
+    <https://www.edureka.co/blog/linux-commands-in-devops/>
+  * DevOps Tutorial : Introduction To DevOps
+    <https://www.edureka.co/blog/devops-tutorial>
+  * Top 10 DevOps Tools You Must Know In 2023
+    <https://www.edureka.co/blog/top-10-devops-tools/>
+  * Understanding DevOps Tools – Development, Testing & Deployment
+    Technologies Involved In DevOps
+    <https://www.edureka.co/blog/devops-tools>
+
+
+          Git & GitHub
+          /
+
+          /
+
+  * What Is Git ? – Explore A Distributed Version Control Tool
+    <https://www.edureka.co/blog/what-is-git/>
+  * Install Git – Git Installation On Windows And CentOS
+    <https://www.edureka.co/blog/install-git/>
+  * How To Use GitHub - Developers Collaboratation Using GitHub
+    <https://www.edureka.co/blog/how-to-use-github/>
+  * Git Tutorial – Commands And Operations In Git
+    <https://www.edureka.co/blog/git-tutorial/>
+  * Top 20 Git Commands with Example
+    <https://www.edureka.co/blog/git-commands-with-example/>
+  * What are the common Git mistakes and how to fix them?
+    <https://www.edureka.co/blog/common-git-mistakes/>
+  * Git Reflog – How to recover a deleted branch that was not merged
+    <https://www.edureka.co/blog/git-reflog/>
+  * How to use Git Log to format the commit history?
+    <https://www.edureka.co/blog/git-format-commit-history/>
+  * Git bisect: How to identify a bug in your code?
+    <https://www.edureka.co/blog/git-bisect/>
+  * Git vs Github – Demystifying The Differences
+    <https://www.edureka.co/blog/git-vs-github/>
+
+
+          Jenkins
+          /
+
+          /
+
+  * What is Jenkins? | Jenkins For Continuous Integration | Edureka
+    <https://www.edureka.co/blog/what-is-jenkins/>
+  * Install Jenkins In 5 Simple Steps | Jenkins Installation | Edureka
+    <https://www.edureka.co/blog/install-jenkins/>
+  * Jenkins Tutorial | Continuous Integration Using Jenkins | Edureka
+    <https://www.edureka.co/blog/jenkins-tutorial/>
+  * What is Jenkins X and how is it Different from Jenkins?
+    <https://www.edureka.co/blog/jenkins-x/>
+  * Jenkins Pipeline Tutorial: A Beginner's Guide To Continuous Delivery
+    <https://www.edureka.co/blog/jenkins-pipeline-tutorial-continuous-delivery>
+
+
+          Docker
+          /
+
+          /
+
+  * Docker Explained – An Introductory Guide To Docker
+    <https://www.edureka.co/blog/docker-explained/>
+  * Install Docker – Docker Installation On Ubuntu And CentOS
+    <https://www.edureka.co/blog/install-docker/>
+  * What Is Docker & Docker Container ? A Deep Dive Into Docker !
+    <https://www.edureka.co/blog/what-is-docker-container>
+  * Docker Tutorial – Introduction To Docker & Containerization
+    <https://www.edureka.co/blog/docker-tutorial>
+  * Docker Architecture: Why is it important?
+    <https://www.edureka.co/blog/docker-architecture/>
+  * Top 15 Docker Commands – Docker Commands Tutorial
+    <https://www.edureka.co/blog/docker-commands/>
+  * Docker For Windows | Setting Up Docker On Windows
+    <https://www.edureka.co/blog/docker-for-windows/>
+  * What is Docker Container? – Containerize Your Application Using
+    Docker <https://www.edureka.co/blog/docker-container/>
+  * Docker Compose For Containerizing A MEAN Stack Application
+    <https://www.edureka.co/blog/docker-compose-containerizing-mean-stack-application/>
+  * Docker Swarm For Achieving High Availability
+    <https://www.edureka.co/blog/docker-swarm-cluster-of-docker-engines-for-high-availability>
+  * Docker Networking – Explore How Containers Communicate With Each
+    Other <https://www.edureka.co/blog/docker-networking/>
+
+
+          Kubernetes
+          /
+
+          /
+
+  * What Is Kubernetes? An Introduction To Container Orchestration Tool
+    <https://www.edureka.co/blog/what-is-kubernetes-container-orchestration>
+  * How To Install Kubernetes Cluster On Ubuntu 16.04
+    <https://www.edureka.co/blog/install-kubernetes-on-ubuntu>
+  * Understanding Kubernetes Architecture
+    <https://www.edureka.co/blog/kubernetes-architecture/>
+  * Kubernetes Tutorial – A Comprehensive Guide For Kubernetes
+    <https://www.edureka.co/blog/kubernetes-tutorial/>
+  * Kubernetes Dashboard Installation and Views
+    <https://www.edureka.co/blog/kubernetes-dashboard/>
+  * How to Visualize Kubernetes Cluster Events in real-time
+    <https://www.edureka.co/blog/logging-monitoring-elasticsearch-fluentd-kibana/>
+  * Kubernetes Networking – A Comprehensive Guide To The Networking
+    Concepts In Kubernetes
+    <https://www.edureka.co/blog/kubernetes-networking/>
+  * How To Set Kubernetes Ingress Controller on AWS
+    <https://www.edureka.co/blog/kubernetes-ingress-controller-nginx>
+
+
+          Puppet
+          /
+
+          /
+
+  * What is Puppet ? – Configuration Management Using Puppet
+    <https://www.edureka.co/blog/what-is-puppet/>
+  * Install Puppet – Install Puppet in Four Simple Steps
+    <https://www.edureka.co/blog/install-puppet/>
+  * Puppet Tutorial – One Stop Solution For Configuration Management
+    <https://www.edureka.co/blog/puppet-tutorial/>
+  * How to use Puppet Modules for IT Infrastructure Automation?
+    <https://www.edureka.co/blog/puppet-modules-automation/>
+
+
+          Chef
+          /
+
+          /
+
+  * What Is Chef? – A Tool Used For Configuration Management
+    <https://www.edureka.co/blog/what-is-chef/>
+  * Install Chef – 6 Simple Steps for Installing Chef On CentOS
+    <https://www.edureka.co/blog/install-chef/>
+  * Chef Tutorial – Transform Infrastructure Into Code
+    <https://www.edureka.co/blog/chef-tutorial/>
+
+
+          Ansible
+          /
+
+          /
+
+  * What Is Ansible? – Configuration Management And Automation With
+    Ansible <https://www.edureka.co/blog/what-is-ansible/>
+  * Install Ansible – Ansible Installation In Two Easy Steps
+    <https://www.edureka.co/blog/install-ansible/>
+  * Ansible Tutorial – Learn To Write Ansible Playbooks
+    <https://www.edureka.co/blog/ansible-tutorial/>
+  * Ansible Provisioning: Smarter and Effortless way of Provisioning
+    <https://www.edureka.co/blog/ansible-provisioning-setting-up-lamp-stack>
+  * Ansible Roles- Ultimate way to untangle your Playbooks
+    <https://www.edureka.co/blog/ansible-roles-setup-mean-stack>
+  * Secure Your Secrets With Ansible Vault
+    <https://www.edureka.co/blog/ansible-vault-secure-secrets>
+  * Exploring Ansible Tower With A Hands-On
+    <https://www.edureka.co/blog/ansible-tower/>
+  * Ansible for AWS – Managing Cloud Made Easy
+    <https://www.edureka.co/blog/ansible-for-aws-provision-ec2-instance>
+
+
+          Which tool should you choose?
+          /
+
+          /
+
+  * Kubernetes vs Docker: Comparing The Two Container Orchestration
+    Giants! <https://www.edureka.co/blog/kubernetes-vs-docker/>
+  * Chef vs Puppet vs Ansible vs Saltstack: Which Works Best For You?
+    <https://www.edureka.co/blog/chef-vs-puppet-vs-ansible-vs-saltstack/>
+
+
+          DevOps Lifecycle
+          /
+
+          /
+
+  * What Is Agile Methodology – Know the What and How?
+    <https://www.edureka.co/blog/what-is-agile-methodology/>
+  * What is Continuous Integration?
+    <https://www.edureka.co/blog/continuous-integration/>
+  * Continuous Delivery Tutorial – Building A Continuous Delivery
+    Pipeline Using Jenkins
+    <https://www.edureka.co/blog/continuous-delivery/>
+  * Continuous Deployment – A Comprehensive Guide With An Example
+    <https://www.edureka.co/blog/continuous-deployment/>
+  * Continuous Delivery vs Continuous Deployment
+    <https://www.edureka.co/blog/continuous-delivery-vs-continuous-deployment/>
+  * CI CD Pipeline – Learn how to Setup a CI CD Pipeline from Scratch
+    <https://www.edureka.co/blog/ci-cd-pipeline/>
+  * Nagios Tutorial – Continuous Monitoring With Nagios
+    <https://www.edureka.co/blog/nagios-tutorial/>
+
+
+          DevOps Interview Questions
+          /
+
+          /
+
+  * Top 120+ DevOps Interview Questions And Answers for 2023
+    <https://www.edureka.co/blog/interview-questions/top-devops-interview-questions/>
+  * Top Git Interview Questions – All You Need To Know About Git
+    <https://www.edureka.co/blog/interview-questions/git-interview-questions/>
+  * Top Jenkins Interview Questions – All You Need To Know About Jenkins
+    <https://www.edureka.co/blog/interview-questions/jenkins-interview-questions/>
+  * Top Docker Interview Questions – All You Need To Know About Docker
+    <https://www.edureka.co/blog/interview-questions/docker-interview-questions/>
+  * Top 50 Kubernetes Interview Questions and Answer for 2023
+    <https://www.edureka.co/blog/interview-questions/kubernetes-interview-questions/>
+  * Top 50 Ansible Interview Questions And Answers in 2023
+    <https://www.edureka.co/blog/interview-questions/ansible-interview-questions/>
+  * Top Puppet Interview Questions – All You Need To Know About Puppet
+    <https://www.edureka.co/blog/interview-questions/puppet-interview-questions/>
+  * Top Chef Interview Questions – All You Need To Know About Chef
+    <https://www.edureka.co/blog/interview-questions/chef-interview-questions/>
+  * Top Nagios Interview Questions – All You Need To Know About Nagios
+    <https://www.edureka.co/blog/interview-questions/nagios-interview-questions/>
+
+
+          Careers
+          /
+
+          /
+
+  * Top 10 Reasons To Learn DevOps – Why Learn DevOps
+    <https://www.edureka.co/blog/10-reasons-to-learn-devops/>
+  * DevOps Roles: Which Of Them Is Your Dream?
+    <https://www.edureka.co/blog/devops-roles-which-is-your-dream/>
+  * Top 6 DevOps Skills That Organizations Are Looking For
+    <https://www.edureka.co/blog/devops-skills>
+  * Who Is A DevOps Engineer? – DevOps Engineer Roles And
+    Responsibilities <https://www.edureka.co/blog/devops-engineer-role>
+  * DevOps Engineer Resume Example – Building An Impressive DevOps
+    Resume <https://www.edureka.co/blog/devops-resume>
+  * DevOps Engineer Salary – How Much Does A DevOps Engineer Earns?
+    <https://www.edureka.co/blog/devops-engineer-salary/>
+
+
+      DevOps
+
+Topics Covered
+
+  * DevOps (79 Blogs)
+  * Mastering Git and GitHub (4 Blogs)
+  * Docker (9 Blogs)
+  * DevOps Engineer Masters Program (7 Blogs)
+
+SEE MORE // <https://www.edureka.co/blog/category/devops/>
+
+Banner image <https://bit.ly/3oVJYda>
+
+
+  What Is Git ? – Explore A Distributed Version Control Tool
+
+Last updated on Dec 15,2021145.9K Views
+Share
+image not found!WhatsApp
+<https://api.whatsapp.com/send?phone&text=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool%20%20https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dwhatsapp%20%20%23Edureka&app_absent=0>image not found!Linkedin <https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dlinkedin&title=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool&summary=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Toolhttps%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dlinkedin%23Edureka&source=https%3A%2F%2Fwww.edureka.co%2Fblog>image not found!Twitter <https://twitter.com/intent/tweet?text=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool%20%20%23Edureka&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dtwitter&via=edurekain%20#Edureka>image not found!Facebook <https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dfacebook&quote=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool%20%20https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dfacebook%20%20%23Edureka>image not found!Reddit <https://www.reddit.com/submit?url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dreddit&title=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool>image not found!Copy Link!
+
+Reshma AhmedReshma Ahmed
+<https://www.edureka.co/blog/author/reshma-ahmed/> Reshma is a
+tech-savvy professional working as a Research Analyst at Edureka....
+Reshma is a tech-savvy professional working as a Research Analyst at
+Edureka. She is a DevOps evangelist, a Cloud enthusiast, a Big Data
+Hadoop...
+
+  * 10 Comments <javascript:void(0)>
+  * // Bookmark <https://www.edureka.co/blog/what-is-git/> 
+
+image not found!
+<https://api.whatsapp.com/send?phone&text=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool%20%20https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dwhatsapp%20%20%23Edureka&app_absent=0>image not found! <https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dlinkedin&title=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool&summary=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Toolhttps%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dlinkedin%23Edureka&source=https%3A%2F%2Fwww.edureka.co%2Fblog>image not found! <https://twitter.com/intent/tweet?text=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool%20%20%23Edureka&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dtwitter&via=edurekain%20#Edureka>image not found! <https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dfacebook&quote=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool%20%20https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dfacebook%20%20%23Edureka>image not found! <https://www.reddit.com/submit?url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dreddit&title=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool>image not found!Copy Link!
+// <https://www.edureka.co/blog/devops-tools>1 / 10 Blog from Git &
+GitHub // <https://www.edureka.co/blog/install-git/>
+
+------------------------------------------------------------------------
+myMock-mobile-banner-bgmyMock-desk-banner-bg <https://bit.ly/3oVJYda>
+//
+Become a Certified Professional//
+<https://www.edureka.co/devops-certification-training>
+
+Git is a free, open source distributed version control system tool
+designed to handle everything from small to very large projects with
+speed and efficiency. It was created by Linus Torvalds in 2005 to
+develop Linux Kernel. Git has the functionality, performance, security
+and flexibility that most teams and individual developers need. It also
+serves as an important distributed version-control /*DevOps tool
+<https://www.edureka.co/devops>*/. This ‘What Is Git’ blog is the first
+blog of my Git Tutorial series. I hope you will enjoy it. :-) 
+
+In this ‘What is Git’ blog, you will learn:
+
+  * Why Git came into existence <#why_git_came_into_existence>?
+  * What is Git <#what_is_git>?
+  * Features of Git <#features_of_git>
+  * How Git plays a vital role in DevOps <#role_of_git_in_devops>?
+  * How Microsoft and other companies are using Git <#companies_using_git>
+
+
+    *What is Git – Why Git* *Came Into Existence?*
+
+We all know “Necessity is the mother of all inventions”. And similarly
+Git was also invented to fulfill certain necessities that the developers
+faced before Git.
+
+
+      *What is the purpose of Git?*
+
+Git is primarily used to manage your project, comprising a set of
+code/text files that may change.
+
+But before we go further, let us take a step back to learn all about
+Version Control Systems (VCS) and how Git came into existence.
+
+Version Control is the management of changes to documents, computer
+programs, large websites and other collection of information.
+
+
+    *There are two types of VCS:*
+
+  * Centralized Version Control System (CVCS)
+  * Distributed Version Control System (DVCS)
+
+
+      *Centralized VCS*
+
+Centralized version control system (CVCS) uses a central server to store
+all files and enables team collaboration. It works on a single
+repository to which users can directly access a central server.
+
+Please refer to the diagram below to get a better idea of CVCS:
+
+Centralized Version Control System Workflow - What Is Git - Edureka
+
+The repository in the above diagram indicates a central server that
+could be local or remote which is directly connected to each of the
+programmer’s workstation.
+
+Every programmer can extract or *update* their workstations with the
+data present in the repository or can make changes to the data
+or *commit* in the repository. Every operation is performed directly on
+the repository.
+
+Even though it seems pretty convenient to maintain a single repository,
+it has some major drawbacks. Some of them are:
+
+  * It is not locally available; meaning you always need to be connected
+    to a network to perform any action.
+  * Since everything is centralized, in any case of the central server
+    getting crashed or corrupted will result in losing the entire data
+    of the project.
+
+This is when Distributed VCS comes to the rescue.
+
+
+      *Distributed VCS*
+
+These systems do not necessarily rely on a central server to store all
+the versions of a project file.
+
+In Distributed VCS, every contributor has a local copy or “clone” of the
+main repository i.e. everyone maintains a local repository of their own
+which contains all the files and metadata present in the main repository.
+
+You will understand it better by referring to the diagram below:
+
+Distributed Version Control System Workflow - What Is Git - Edureka
+
+As you can see in the above diagram, every programmer maintains a local
+repository on its own, which is actually the copy or clone of the
+central repository on their hard drive. They can commit and update their
+local repository without any interference.
+
+They can update their local repositories with new data from the central
+server by an operation called “*pull*” and affect changes to the main
+repository by an operation called “*push*” from their local repository.
+
+The act of cloning an entire repository into your workstation to get a
+local repository gives you the following advantages:
+
+Course Curriculum
+
+
+      DevOps Certification Training Course
+
+Explore Curriculum
+ <https://www.edureka.co/devops-certification-training?utm_source=blogbanner&utm_campaign=curriculum>
+
+  * All operations (except push & pull) are very fast because the tool
+    only needs to access the hard drive, not a remote server. Hence, you
+    do not always need an internet connection.
+  * Committing new change-sets can be done locally without manipulating
+    the data on the main repository. Once you have a group of
+    change-sets ready, you can push them all at once.
+  * Since every contributor has a full copy of the project repository,
+    they can share changes with one another if they want to get some
+    feedback before affecting changes in the main repository.
+  * If the central server gets crashed at any point of time, the lost
+    data can be easily recovered from any one of the contributor’s local
+    repositories.
+
+After knowing Distributed VCS, its time we take a dive into what is Git.
+
+
+    *What Is Git?*
+
+Git is a Distributed Version Control tool that supports distributed
+non-linear workflows by providing data assurance for developing quality
+software. Before you go ahead, check out this video on GIT which will
+give you better in-sight.
+
+
+    *Git and Github Tutorial Explaining The Science Behind Git and
+    Github Workflows | Github Basics*
+
+ 
+
+Git provides with all the Distributed VCS facilities to the user that
+was mentioned earlier. Git repositories are very easy to find and
+access. You will know how flexible and compatible Git is with your
+system when you go through the features mentioned below: 
+
+
+    *What is Git – Features Of Git*
+
+
+Free And Open Source Icon - What Is Git - Edureka
+
+*Free and open source:*
+Git is released under GPL’s (General Public License) open source
+license. You don’t need to purchase Git. It is absolutely free. And
+since it is open source, you can modify the source code as per your
+requirement.
+
+ 
+
+
+
+Speed Icon - What Is Git - Edureka
+*Speed:*
+Since you do not have to connect to any network for performing all
+operations, it completes all the tasks really fast. Performance tests
+done by Mozilla showed it was an order of magnitude faster than other
+version control systems. Fetching version history from a locally stored
+repository can be one hundred times faster than fetching it from the
+remote server. The core part of Git is written in C, which avoids
+runtime overheads associated with other high level languages.
+
+ 
+
+
+Scalable Icon - What Is Git - Edureka
+
+*Scalable:*
+Git is very scalable. So, if in future , the number of collaborators
+increase Git can easily handle this change. Though Git represents an
+entire repository, the data stored on the client’s side is very small as
+Git compresses all the huge data through a lossless compression technique.
+
+ 
+
+
+Reliable Icon - What Is Git - Edureka
+
+*Reliable:*
+Since every contributor has its own local repository, on the events of a
+system crash, the lost data can be recovered from any of the local
+repositories. You will always have a backup of all your files.
+
+ 
+
+ 
+
+Secure Icon - What Is Git - Edureka*Secure:*
+Git uses the /*SHA1*/ (Secure Hash Function) to name and identify
+objects within its repository. Every file and commit is check-summed and
+retrieved by its checksum at the time of checkout. The Git history is
+stored in such a way that the ID of a particular version (a /commit /in
+Git terms) depends upon the complete development history leading up to
+that commit. Once it is published, it is not possible to change the old
+versions without it being noticed.
+
+ 
+
+ Economical Icon - What Is Git - Edureka*Economical:*
+In case of CVCS, the central server needs to be powerful enough to serve
+requests of the  entire team. For smaller teams, it is not an issue, but
+as the team size grows, the hardware  limitations of the server can be a
+performance bottleneck. In case of DVCS, developers don’t  interact with
+the server unless they need to push or pull changes. All the heavy
+lifting  happens on the client side, so the server hardware can be very
+simple indeed.
+
+ 
+
+ 
+*Strong Support For Non Linear Development Icon - What Is Git -
+EdurekaSupports non-linear development:*
+Git supports rapid branching and merging, and includes specific tools
+for visualizing and navigating a non-linear development history. A core
+assumption in Git is that a change will be merged more often than it is
+written, as it is passed around various reviewers. Branches in Git are
+very lightweight. A branch in Git is only a reference to a single
+commit. With its parental commits, the full branch structure can be
+constructed.
+
+ 
+
+ Easy Branching Icon - What Is Git - Edureka *Easy Branching:*
+Branch management with Git is very simple. It takes only few seconds to
+create, delete, and merge branches. Feature branches provide an isolated
+environment for every change to your codebase. When a developer wants to
+start working on something, no matter how big or small, they create a
+new branch. This ensures that the master branch always contains
+production-quality code.
+
+
+      DevOps Training
+
+Previous
+/
+
+/
+
+
+      DevOps Certification Training Course
+
+
+      DevOps Certification Training Course
+
+Reviews
+//////////5(145786)
+<https://www.edureka.co/devops-certification-training?utm_source=blogbanner&utm_campaign=trending_course>
+/
+
+/
+
+
+      AWS DevOps Engineer Certification Training Course
+
+
+      AWS DevOps Engineer Certification Training Course
+
+Reviews
+//////////5(7903)
+<https://www.edureka.co/aws-certified-devops-training?utm_source=blogbanner&utm_campaign=trending_course>
+/
+
+/
+
+
+      Kubernetes Certification Training Course: Administrator (CKA)
+
+
+      Kubernetes Certification Training Course: Administrator (CKA)
+
+Reviews
+//////////5(11036)
+<https://www.edureka.co/kubernetes-certification?utm_source=blogbanner&utm_campaign=trending_course>
+/
+
+/
+
+
+      Docker Certification Training Course
+
+
+      Docker Certification Training Course
+
+Reviews
+//////////5(7210)
+<https://www.edureka.co/docker-training?utm_source=blogbanner&utm_campaign=trending_course>
+/
+
+/
+
+
+      Jenkins Certification Training Course
+
+
+      Jenkins Certification Training Course
+
+Reviews
+//////////5(8959)
+<https://www.edureka.co/jenkins-certification-course?utm_source=blogbanner&utm_campaign=trending_course>
+/
+
+/
+
+
+      Ansible Certification Training Course
+
+
+      Ansible Certification Training Course
+
+Reviews
+//////////5(614)
+<https://www.edureka.co/ansible-certification-training?utm_source=blogbanner&utm_campaign=trending_course>
+/
+
+/
+
+
+      Git Certification Training
+
+
+      Git Certification Training
+
+Reviews
+//////////5(4667)
+<https://www.edureka.co/git-certification-training-course?utm_source=blogbanner&utm_campaign=trending_course>
+Next
+
+ 
+
+Distributed Development Icon - What Is Git - Edureka
+
+ 
+
+*Distributed development: *
+Git gives each developer a local copy of the entire development history,
+and changes are copied from one such repository to another. These
+changes are imported as additional development branches, and can be
+merged in the same way as a locally developed branch.
+
+ 
+
+ 
+
+Compatibility With Existing System Or Protocol Icon - What Is Git - Edureka
+
+*Compatibility with existing systems or protocol*
+Repositories can be published via http, ftp or a Git protocol over
+either a plain socket, or ssh. Git also has a Concurrent Version Systems
+(CVS) server emulation, which enables the use of existing CVS clients
+and IDE plugins to access Git repositories. Apache SubVersion (SVN) and
+SVK repositories can be used directly with Git-SVN.
+
+ 
+
+
+    *What is Git – Role Of Git In DevOps?*
+
+Now that you know what is Git, you should know Git is an integral part
+of DevOps.
+
+DevOps is the practice of bringing agility to the process of development
+and operations. It’s an entirely new ideology that has swept IT
+organizations worldwide, boosting project life-cycles and in turn
+increasing profits. DevOps promotes communication between development
+engineers and operations, participating together in the entire service
+life-cycle, from design through the development process to production
+support.
+
+The diagram below depicts the Devops life cycle and displays how Git
+fits in Devops.
+
+Git In DevOps - What Is Git - Edureka
+
+The diagram above shows the entire life cycle of Devops starting from
+planning the project to its deployment and monitoring. Git plays a vital
+role when it comes to managing the code that the collaborators
+contribute to the shared repository. This code is then extracted for
+performing continuous integration to create a build and test it on the
+test server and eventually deploy it on the production.
+
+Tools like Git enable communication between the development and the
+operations team. When you are developing a large project with a huge
+number of collaborators, it is very important to have communication
+between the collaborators while making changes in the project. Commit
+messages in Git play a very important role in communicating among the
+team. The bits and pieces that we all deploy lies in the Version Control
+system like Git. To succeed in DevOps, you need to have all of the
+communication in Version Control. Hence, Git plays a vital role in
+succeeding at DevOps.
+
+
+    *Who uses Git? – Popular Companies Using Git*
+
+Git has earned way more popularity compared to other version control
+tools available in the market like Apache Subversion(SVN), Concurrent
+Version Systems(CVS), Mercurial etc. You can compare the interest of Git
+by time with other version control tools with the graph collected
+from /Google Trends/ below:
+
+Git Interest By Time Graph - What Is Git - Edureka
+
+In large companies, products are generally developed by developers
+located all around the world. To enable communication among them, Git is
+the solution.
+
+Some companies that use Git for version control are: Facebook, Yahoo,
+Zynga, Quora, Twitter, eBay, Salesforce, Microsoft and many more.
+
+Lately, all of Microsoft’s new development work has been in Git
+features. Microsoft is migrating .NET and many of its open source
+projects on GitHub which are managed by Git. 
+
+One of such projects is the LightGBM. It is a fast, distributed, high
+performance gradient boosting framework based on decision tree
+algorithms which is used for ranking, classification and many other
+machine learning tasks.
+
+Course Curriculum
+
+
+      DevOps Certification Training Course
+
+Weekday / Weekend BatchesSee Batch Details
+<https://www.edureka.co/devops-certification-training?utm_source=blogbanner&utm_campaign=batches>
+
+Here, Git plays an important role in managing this distributed version
+of LightGBM by providing speed and accuracy.
+
+At this point you know what is Git; now, let us learn to use commands
+and perform operations in my next /*Git Tutorial
+<https://www.edureka.co/blog/git-tutorial/> */blog.
+
+
+    /*Popular Question:*/
+
+
+      /*What is the difference between Git vs GitHub?*/
+
+/Git is just a version control system that manages and tracks changes to
+your source code whereas GitHub is a cloud-based hosting platform that
+manages all your Git repositories./
+
+
+      */Why is Git so popular?/*
+
+/Git is a distributed version control system(VCS) that enables the
+developers to manage the changes offline and allows you to branch and
+merge whenever required, giving them full control over the local code
+base. It is fast and also suitable for handling massive code bases
+scattered across multiple developers, which makes it the most popular
+tool used./
+
+/If you found this “*What is Git*//” blog relevant, //check out
+the /*/DevOps training/* <https://www.edureka.co/devops/>/ //by
+Edureka, a trusted online learning company with a network of more
+than 250,000 satisfied learners spread across the globe. The Edureka
+DevOps Certification Training course helps learners gain expertise in
+various DevOps processes and tools such as Puppet, Jenkins, Nagios and
+GIT for automating multiple steps in SDLC./
+
+Upcoming Batches For DevOps Certification Training Course
+Course Name	Date	
+DevOps Certification Training Course
+<https://www.edureka.co/devops-certification-training?utm_source=blogbatch&utm_campaign=batch_details>	
+
+Class Starts on 13th May,2023
+
+13th MaySAT&SUN (Weekend Batch)	View Details
+<https://www.edureka.co/devops-certification-training?utm_source=blogbatch&utm_campaign=batch_details>
+DevOps Certification Training Course
+<https://www.edureka.co/devops-certification-training?utm_source=blogbatch&utm_campaign=batch_details>	
+
+Class Starts on 29th May,2023
+
+29th MayMON-FRI (Weekday Batch)	View Details
+<https://www.edureka.co/devops-certification-training?utm_source=blogbatch&utm_campaign=batch_details>
+DevOps Certification Training Course
+<https://www.edureka.co/devops-certification-training?utm_source=blogbatch&utm_campaign=batch_details>	
+
+Class Starts on 12th June,2023
+
+12th JuneMON-FRI (Weekday Batch)	View Details
+<https://www.edureka.co/devops-certification-training?utm_source=blogbatch&utm_campaign=batch_details>
+
+
+      Recommended videos for you
+
+What-is-Puppet-Puppet-Tutorial-for-Beginners-Puppet-Configuration-Management-Tutorial-Edureka.jpeg
+/
+
+/
+ <https://www.edureka.co/blog/videos/puppet-tutorial/>
+
+
+      Puppet Tutorial – DevOps Tool For Configuration Management
+
+Watch Now <https://www.edureka.co/blog/videos/puppet-tutorial/>
+continuous-integration-with-jenkins.jpg
+/
+
+/
+ <https://www.edureka.co/blog/videos/continuous-integration-with-jenkins/>
+
+
+      Continuous Integration With Jenkins
+
+Watch Now
+<https://www.edureka.co/blog/videos/continuous-integration-with-jenkins/>
+What-is-Git-What-is-GitHub-Git-Tutorial-GitHub-Tutorial-Devops-Tutorial-Edureka.jpeg
+/
+
+/
+ <https://www.edureka.co/blog/videos/what-is-git/>
+
+
+      What is Git – A Complete Git Tutorial For Beginners
+
+Watch Now <https://www.edureka.co/blog/videos/what-is-git/>
+devops-redefining-your-it-strategy.jpg
+/
+
+/
+ <https://www.edureka.co/blog/videos/devops-redefining-your-it-strategy/>
+
+
+      DevOps-Redefining your IT Strategy
+
+Watch Now
+<https://www.edureka.co/blog/videos/devops-redefining-your-it-strategy/>
+Ansible-Playbook-Tutorial-Ansible-Tutorial-For-Beginners-DevOps-Tools-Edureka.jpeg
+/
+
+/
+ <https://www.edureka.co/blog/videos/ansible-tutorial/>
+
+
+      Ansible Tutorial For Beginners – Ansible Playbook
+
+Watch Now <https://www.edureka.co/blog/videos/ansible-tutorial/>
+What-is-DevOps-DevOps-Training-DevOps-Introduction-Tools-DevOps-Tutorial-Edureka.jpeg
+/
+
+/
+ <https://www.edureka.co/blog/videos/what-is-devops/>
+
+
+      What is DevOps – A Beginners Guide To DevOps
+
+Watch Now <https://www.edureka.co/blog/videos/what-is-devops/>
+What-is-Jenkins-Jenkins-Tutorial-for-Beginners-Jenkins-Continuous-Integration-Tutorial-Edureka.jpeg
+/
+
+/
+ <https://www.edureka.co/blog/videos/what-is-jenkins/>
+
+
+      What is Jenkins? Continuous Integration With Jenkins
+
+Watch Now <https://www.edureka.co/blog/videos/what-is-jenkins/>
+DevOps-Tutorial-DevOps-Tutorial-for-Beginners-DevOps-Training-Edureka.jpeg
+/
+
+/
+ <https://www.edureka.co/blog/videos/devops-tutorial/>
+
+
+      DevOps Tutorial For Beginners
+
+Watch Now <https://www.edureka.co/blog/videos/devops-tutorial/>
+devops-is-going-to-replace-sdlc-learn-why.jpg
+/
+
+/
+ <https://www.edureka.co/blog/videos/devops-is-going-to-replace-sdlc-learn-why/>
+
+
+      DevOps is Going to Replace SDLC! Learn Why
+
+Watch Now
+<https://www.edureka.co/blog/videos/devops-is-going-to-replace-sdlc-learn-why/>
+What-is-Docker-Docker-Tutorial-for-Beginners-Docker-Container-DevOps-Tools-Edureka.jpeg
+/
+
+/
+ <https://www.edureka.co/blog/videos/what-is-docker/>
+
+
+      What is Docker – DevOps Tool For Containerization
+
+Watch Now <https://www.edureka.co/blog/videos/what-is-docker/>
+5-best-practices-in-devops-culture.jpg
+/
+
+/
+ <https://www.edureka.co/blog/videos/5-best-practices-in-devops-culture/>
+
+
+      5 Best Practices In DevOps Culture
+
+Watch Now
+<https://www.edureka.co/blog/videos/5-best-practices-in-devops-culture/>
+DevOps-Interview-Questions-and-Answers-DevOps-Tutorial-DevOps-Training-Edureka.jpeg
+/
+
+/
+ <https://www.edureka.co/blog/videos/devops-interview-questions-answers/>
+
+
+      Top DevOps Interview Questions And Answers
+
+Watch Now
+<https://www.edureka.co/blog/videos/devops-interview-questions-answers/>
+devops-automate-your-infrastructure-with-puppet.jpg
+/
+
+/
+ <https://www.edureka.co/blog/videos/devops-automate-your-infrastructure-with-puppet/>
+
+
+      Devops : Automate Your Infrastructure With Puppet
+
+Watch Now
+<https://www.edureka.co/blog/videos/devops-automate-your-infrastructure-with-puppet/>
+‹
+›
+
+
+      Recommended blogs for you
+
+docker-compose-300x175.png
+ <https://www.edureka.co/blog/docker-compose-containerizing-mean-stack-application/>
+
+
+      Docker Compose For Containerizing A MEAN Stack Application
+
+Read Article
+<https://www.edureka.co/blog/docker-compose-containerizing-mean-stack-application/>
+Linux-commands-for-DevOps-300x175.png
+ <https://www.edureka.co/blog/linux-commands-in-devops/>
+
+
+      Linux commands in DevOps: Must Know For Every DevOps Professional
+
+Read Article <https://www.edureka.co/blog/linux-commands-in-devops/>
+feature-image-template-comp-1-300x152.jpg
+ <https://www.edureka.co/blog/devops-engineer-salary-in-india/>
+
+
+      DevOps Engineer Salary in India [Updated 2023]
+
+Read Article <https://www.edureka.co/blog/devops-engineer-salary-in-india/>
+Docker-Architecture-300x175.jpg
+ <https://www.edureka.co/blog/docker-architecture/>
+
+
+      Docker Architecture: Why is it important?
+
+Read Article <https://www.edureka.co/blog/docker-architecture/>
+Feature-Image_06-300x175.png
+ <https://www.edureka.co/blog/chef-vs-puppet-vs-ansible-vs-saltstack/>
+
+
+      Chef vs Puppet vs Ansible vs Saltstack: Which Works Best For You?
+
+Read Article
+<https://www.edureka.co/blog/chef-vs-puppet-vs-ansible-vs-saltstack/>
+Puppet-Tutorial-Edureka-300x176.png
+ <https://www.edureka.co/blog/puppet-tutorial/>
+
+
+      Puppet Tutorial – One Stop Solution For Configuration Management
+
+Read Article <https://www.edureka.co/blog/puppet-tutorial/>
+Docker-Tutorial-Introduction-To-Docker-And-Containerization-Edureka-300x176.png
+ <https://www.edureka.co/blog/docker-tutorial>
+
+
+      Docker Tutorial – Introduction To Docker
+
+Read Article <https://www.edureka.co/blog/docker-tutorial>
+kubernetes-networking-1-300x175.png
+ <https://www.edureka.co/blog/kubernetes-networking/>
+
+
+      Kubernetes Networking – A Comprehensive Guide To The Networking
+      Concepts In Kubernetes
+
+Read Article <https://www.edureka.co/blog/kubernetes-networking/>
+Kubernetes-vs-Docker-Swarm-300x175.png
+ <https://www.edureka.co/blog/kubernetes-vs-docker/>
+
+
+      Kubernetes vs Docker: Comparing The Two Container Orchestration
+      Giants!
+
+Read Article <https://www.edureka.co/blog/kubernetes-vs-docker/>
+AWS-CodeDeploy-1-300x169.jpg
+ <https://www.edureka.co/blog/aws-codedeploy/>
+
+
+      AWS CodeDeploy: How To Automate Code Deployment?
+
+Read Article <https://www.edureka.co/blog/aws-codedeploy/>
+Install-Kubernetes-on-Ubuntu-300x175.png
+ <https://www.edureka.co/blog/install-kubernetes-on-ubuntu>
+
+
+      How To Install Kubernetes Cluster On Ubuntu 16.04
+
+Read Article <https://www.edureka.co/blog/install-kubernetes-on-ubuntu>
+2019-10-15-300x175.jpg
+ <https://www.edureka.co/blog/puppet-modules-automation/>
+
+
+      How to use Puppet Modules for IT Infrastructure Automation?
+
+Read Article <https://www.edureka.co/blog/puppet-modules-automation/>
+Feature-Image4-300x175.png
+ <https://www.edureka.co/blog/aws-devops-a-new-approach-to-software-deployment/>
+
+
+      AWS DevOps: Introduction to DevOps on AWS
+
+Read Article
+<https://www.edureka.co/blog/aws-devops-a-new-approach-to-software-deployment/>
+Nagios-Tutorial-Edureka-300x175.png
+ <https://www.edureka.co/blog/nagios-tutorial/>
+
+
+      Nagios Tutorial – Continuous Monitoring With Nagios
+
+Read Article <https://www.edureka.co/blog/nagios-tutorial/>
+Chef-Interview-Questions-Edureka-300x176.png
+ <https://www.edureka.co/blog/interview-questions/chef-interview-questions/>
+
+
+      Top Chef Interview Questions – All You Need To Know About Chef In 2023
+
+Read Article
+<https://www.edureka.co/blog/interview-questions/chef-interview-questions/>
+CICD-Pipeline-Devops-Edureka-300x175.png
+ <https://www.edureka.co/blog/ci-cd-pipeline/>
+
+
+      CI/CD Pipeline – Learn how to Setup a CI/CD Pipeline from Scratch
+
+Read Article <https://www.edureka.co/blog/ci-cd-pipeline/>
+Prerequisites-For-DevOps-300x175.jpg
+ <https://www.edureka.co/blog/prerequisites-for-devops/>
+
+
+      What Are Important Pre-Requisites For DevOps Professionals?
+
+Read Article <https://www.edureka.co/blog/prerequisites-for-devops/>
+Logo-What-Is-Git-Edureka-300x175.png
+ <https://www.edureka.co/blog/what-is-git/>
+
+
+      What Is Git ? – Explore A Distributed Version Control Tool
+
+Read Article <https://www.edureka.co/blog/what-is-git/>
+github-300x175.png
+ <https://www.edureka.co/blog/gitting-ahead-hacking-git-and-github-part-2>
+
+
+      ‘Git’ting Ahead: Hacking Git and GitHub Part 2
+
+Read Article
+<https://www.edureka.co/blog/gitting-ahead-hacking-git-and-github-part-2>
+Coin_01b-300x172.jpg
+ <https://www.edureka.co/blog/mystery-of-devops/>
+
+
+      Mystery of DevOps
+
+Read Article <https://www.edureka.co/blog/mystery-of-devops/>
+‹
+›
+
+Comments
+10 Comments
+
+  *
+    *Y Phalguni Sree* says:
+    Mar 29, 2019 at 5:36 am GMT
+
+    It was a really worthy content for me as it was more clear compared
+    to other blog’s content.Thanks for that @reshmaahmed the author.But
+    as i am a student of b.tech 3rd year i am intrested in the field of
+    Development in DevOps and i dont have any knowledge regarding devops
+    and i have a good knowledge in languages like c,c++,java,python and
+    UI development…..so with this knowledge how should approach to
+    become a DevOps engineer and what all i need to start learning to
+    become a Developer in DevOps ?I hope you got my doubt and respond
+    soon.Thank you.
+
+    Reply <#comment-25384>
+
+  *
+    *Shadab Ilahi* says:
+    Mar 29, 2019 at 5:36 am GMT
+
+    Hey Reshma, Thanks for the Blog. It is very concise and well explained.
+
+    Reply <#comment-25397>
+
+  *
+    *Thiru* says:
+    Nov 5, 2018 at 12:41 pm GMT
+
+    Awesome explanation
+
+    Reply <#comment-23714>
+
+      o
+        *EdurekaSupport* says:
+        Mar 29, 2019 at 5:39 am GMT
+
+        Hey Thiru, we are glad you loved our blog. Do subscribe and stay
+        connected with us. Cheers!
+
+        Reply <#comment-25917>
+
+  *
+    *Maq Said* says:
+    Apr 14, 2018 at 3:41 pm GMT
+
+    Excellent post. I got to know a lot about Git
+
+    Reply <#comment-22871>
+
+      o
+        *EdurekaSupport* says:
+        Apr 17, 2018 at 5:02 am GMT
+
+        Hey @maqsaid:disqus We are glad to have helped. Do subscribe to
+        us and stay tuned for daily updates. :)
+
+        Reply <#comment-22878>
+
+  *
+    *saleh* says:
+    May 3, 2017 at 10:55 am GMT
+
+    excellent post….thanks a lot for sharing it.
+
+    Reply <#comment-21442>
+
+      o
+        *EdurekaSupport* says:
+        May 3, 2017 at 11:53 am GMT
+
+        +saleh, thanks for the wonderful feedback! We’re glad we could
+        be of help.
+        Do subscribe to our blog to stay posted on upcoming blog posts.
+        Cheers!
+
+        Reply <#comment-21443>
+
+          +
+            *sevgi dogan* says:
+            Feb 11, 2018 at 12:49 pm GMT
+
+            I loved it too. Thanks
+
+            Reply <#comment-22716>
+
+              #
+                *EdurekaSupport* says:
+                Feb 13, 2018 at 12:03 pm GMT
+
+                Thank you, Sevgi. Do subscribe and stay connected with
+                us. Cheers :)
+
+                Reply <#comment-22724>
+
+
+      Join the discussion Cancel reply
+      <https://www.edureka.co/blog/what-is-git/#respond>
+
+
+      Trending Courses in DevOps
+
+DevOps Certification Training Course
+
+
+    DevOps Certification Training Course
+
+  * //146k Enrolled Learners
+  * //Weekend/Weekday
+  * //Live Class 
+
+Reviews
+////////// 5 (58350)
+
+<https://www.edureka.co/devops-certification-training>
+AWS DevOps Engineer Certification Training Course
+
+
+    AWS DevOps Engineer Certification Training Co ...
+
+  * //8k Enrolled Learners
+  * //Weekend
+  * //Live Class 
+
+Reviews
+////////// 5 (3200)
+
+<https://www.edureka.co/aws-certified-devops-training>
+Kubernetes Certification Training Course: Administrator (CKA)
+
+
+    Kubernetes Certification Training Course: Adm ...
+
+  * //12k Enrolled Learners
+  * //Weekend
+  * //Live Class 
+
+Reviews
+////////// 5 (4450)
+
+<https://www.edureka.co/kubernetes-certification>
+Docker Certification Training Course
+
+
+    Docker Certification Training Course
+
+  * //8k Enrolled Learners
+  * //Weekend
+  * //Live Class 
+
+Reviews
+////////// 5 (2900)
+
+<https://www.edureka.co/docker-training>
+Jenkins Certification Training Course
+
+
+    Jenkins Certification Training Course
+
+  * //9k Enrolled Learners
+  * //Weekend
+  * //Self Paced 
+
+Reviews
+////////// 5 (3600)
+
+<https://www.edureka.co/jenkins-certification-course>
+Ansible Certification Training Course
+
+
+    Ansible Certification Training Course
+
+  * //1k Enrolled Learners
+  * //Weekend
+  * //Self Paced 
+
+Reviews
+////////// 5 (250)
+
+<https://www.edureka.co/ansible-certification-training>
+Git Certification Training
+
+
+    Git Certification Training
+
+  * //5k Enrolled Learners
+  * //Weekend
+  * //Self Paced 
+
+Reviews
+////////// 5 (1900)
+
+<https://www.edureka.co/git-certification-training-course>
+‹
+›
+
+
+      Browse Categories
+
+Artificial Intelligence
+<https://www.edureka.co/blog/category/artificial-intelligence/>BI and
+Visualization
+<https://www.edureka.co/blog/category/business-intelligence/>Big Data
+<https://www.edureka.co/blog/category/big-data-analytics/>Blockchain
+<https://www.edureka.co/blog/category/blockchain/>Business Management
+<https://www.edureka.co/blog/category/business-management/>Cloud
+Computing <https://www.edureka.co/blog/category/cloud-computing/>Cyber
+Security <https://www.edureka.co/blog/category/cyber-security/>Data
+Science <https://www.edureka.co/blog/category/data-science/>Data
+Warehousing and ETL
+<https://www.edureka.co/blog/category/data-warehousing-and-etl/>Databases <https://www.edureka.co/blog/category/databases/>Digital Marketing <https://www.edureka.co/blog/category/digital-marketing/>Enterprise <https://www.edureka.co/blog/category/enterprise/>Front End Web Development <https://www.edureka.co/blog/category/front-end-web-development/>Human Resource Management <https://www.edureka.co/blog/category/human-resource-management/>Mobile Development <https://www.edureka.co/blog/category/mobile-development/>Operating Systems <https://www.edureka.co/blog/category/operating-systems/>Operations Management <https://www.edureka.co/blog/category/operations-management/>Product Management <https://www.edureka.co/blog/category/product-management/>Programming & Frameworks <https://www.edureka.co/blog/category/programming-and-frameworks/>Project Management and Methodologies <https://www.edureka.co/blog/category/project-management/>Robotic Process Automation <https://www.edureka.co/blog/category/robotic-process-automation/>Software Testing <https://www.edureka.co/blog/category/software-testing/>Supply Chain Management <https://www.edureka.co/blog/category/supply-chain-managements/>Systems & Architecture <https://www.edureka.co/blog/category/systems-architecture/>
+
+LoansOnlineUSA.net <https://loansonlineusa.net/>
+
+webinar REGISTER FOR FREE WEBINAR
+Continuous Improvement through DevOps Testing
+
+//
+Continuous Improvement through DevOps Testing
+<https://www.edureka.co/webinars?webinar_id=4243>
++91
+
+  *
+    India (भारत)+91
+  *
+    United States+1
+  *
+    United Kingdom+44
+  *
+  *
+    Afghanistan (‫افغانستان‬‎)+93
+  *
+    Albania (Shqipëri)+355
+  *
+    Algeria (‫الجزائر‬‎)+213
+  *
+    Andorra+376
+  *
+    Angola+244
+  *
+    Argentina+54
+  *
+    Armenia (Հայաստան)+374
+  *
+    Aruba+297
+  *
+    Australia+61
+  *
+    Austria (Österreich)+43
+  *
+    Azerbaijan (Azərbaycan)+994
+  *
+    Bahamas+1242
+  *
+    Bahrain (‫البحرين‬‎)+973
+  *
+    Bangladesh (বাংলাদেশ)+880
+  *
+    Barbados+1246
+  *
+    Belarus (Беларусь)+375
+  *
+    Belgium (België)+32
+  *
+    Belize+501
+  *
+    Benin (Bénin)+229
+  *
+    Bermuda+1441
+  *
+    Bhutan (འབྲུག)+975
+  *
+    Bolivia+591
+  *
+    Bosnia and Herzegovina (Босна и Херцеговина)+387
+  *
+    Botswana+267
+  *
+    Brazil (Brasil)+55
+  *
+    British Indian Ocean Territory+246
+  *
+    British Virgin Islands+1284
+  *
+    Brunei+673
+  *
+    Bulgaria (България)+359
+  *
+    Burkina Faso+226
+  *
+    Burundi (Uburundi)+257
+  *
+    Cambodia (កម្ពុជា)+855
+  *
+    Cameroon (Cameroun)+237
+  *
+    Canada+1
+  *
+    Cape Verde (Kabu Verdi)+238
+  *
+    Caribbean Netherlands+599
+  *
+    Cayman Islands+1345
+  *
+    Central African Republic (République centrafricaine)+236
+  *
+    Chad (Tchad)+235
+  *
+    Chile+56
+  *
+    China (中国)+86
+  *
+    Christmas Island+61
+  *
+    Cocos (Keeling) Islands+61
+  *
+    Colombia+57
+  *
+    Comoros (‫جزر القمر‬‎)+269
+  *
+    Congo (DRC) (Jamhuri ya Kidemokrasia ya Kongo)+243
+  *
+    Congo (Republic) (Congo-Brazzaville)+242
+  *
+    Cook Islands+682
+  *
+    Costa Rica+506
+  *
+    Côte d’Ivoire+225
+  *
+    Croatia (Hrvatska)+385
+  *
+    Cuba+53
+  *
+    Curaçao+599
+  *
+    Cyprus (Κύπρος)+357
+  *
+    Czech Republic (Česká republika)+420
+  *
+    Denmark (Danmark)+45
+  *
+    Djibouti+253
+  *
+    Dominican Republic (República Dominicana)+1
+  *
+    Ecuador+593
+  *
+    Egypt (‫مصر‬‎)+20
+  *
+    El Salvador+503
+  *
+    Equatorial Guinea (Guinea Ecuatorial)+240
+  *
+    Eritrea+291
+  *
+    Estonia (Eesti)+372
+  *
+    Ethiopia+251
+  *
+    Falkland Islands (Islas Malvinas)+500
+  *
+    Faroe Islands (Føroyar)+298
+  *
+    Fiji+679
+  *
+    Finland (Suomi)+358
+  *
+    France+33
+  *
+    French Guiana (Guyane française)+594
+  *
+    French Polynesia (Polynésie française)+689
+  *
+    Gabon+241
+  *
+    Gambia+220
+  *
+    Georgia (საქართველო)+995
+  *
+    Germany (Deutschland)+49
+  *
+    Ghana (Gaana)+233
+  *
+    Gibraltar+350
+  *
+    Greece (Ελλάδα)+30
+  *
+    Greenland (Kalaallit Nunaat)+299
+  *
+    Grenada+1473
+  *
+    Guadeloupe+590
+  *
+    Guatemala+502
+  *
+    Guernsey+44
+  *
+    Guinea (Guinée)+224
+  *
+    Guinea-Bissau (Guiné Bissau)+245
+  *
+    Guyana+592
+  *
+    Haiti+509
+  *
+    Honduras+504
+  *
+    Hong Kong (香港)+852
+  *
+    Hungary (Magyarország)+36
+  *
+    Iceland (Ísland)+354
+  *
+    India (भारत)+91
+  *
+    Indonesia+62
+  *
+    Iran (‫ایران‬‎)+98
+  *
+    Iraq (‫العراق‬‎)+964
+  *
+    Ireland+353
+  *
+    Isle of Man+44
+  *
+    Israel (‫ישראל‬‎)+972
+  *
+    Italy (Italia)+39
+  *
+    Jamaica+1876
+  *
+    Japan (日本)+81
+  *
+    Jersey+44
+  *
+    Jordan (‫الأردن‬‎)+962
+  *
+    Kazakhstan (Казахстан)+7
+  *
+    Kenya+254
+  *
+    Kiribati+686
+  *
+    Kosovo+383
+  *
+    Kuwait (‫الكويت‬‎)+965
+  *
+    Kyrgyzstan (Кыргызстан)+996
+  *
+    Laos (ລາວ)+856
+  *
+    Latvia (Latvija)+371
+  *
+    Lebanon (‫لبنان‬‎)+961
+  *
+    Lesotho+266
+  *
+    Liberia+231
+  *
+    Libya (‫ليبيا‬‎)+218
+  *
+    Liechtenstein+423
+  *
+    Lithuania (Lietuva)+370
+  *
+    Luxembourg+352
+  *
+    Macau (澳門)+853
+  *
+    Macedonia (FYROM) (Македонија)+389
+  *
+    Madagascar (Madagasikara)+261
+  *
+    Malawi+265
+  *
+    Malaysia+60
+  *
+    Maldives+960
+  *
+    Mali+223
+  *
+    Malta+356
+  *
+    Marshall Islands+692
+  *
+    Martinique+596
+  *
+    Mauritania (‫موريتانيا‬‎)+222
+  *
+    Mauritius (Moris)+230
+  *
+    Mayotte+262
+  *
+    Mexico (México)+52
+  *
+    Micronesia+691
+  *
+    Moldova (Republica Moldova)+373
+  *
+    Monaco+377
+  *
+    Mongolia (Монгол)+976
+  *
+    Montenegro (Crna Gora)+382
+  *
+    Morocco (‫المغرب‬‎)+212
+  *
+    Mozambique (Moçambique)+258
+  *
+    Myanmar (Burma) (မြန်မာ)+95
+  *
+    Namibia (Namibië)+264
+  *
+    Nauru+674
+  *
+    Nepal (नेपाल)+977
+  *
+    Netherlands (Nederland)+31
+  *
+    New Caledonia (Nouvelle-Calédonie)+687
+  *
+    New Zealand+64
+  *
+    Nicaragua+505
+  *
+    Niger (Nijar)+227
+  *
+    Nigeria+234
+  *
+    Niue+683
+  *
+    Norfolk Island+672
+  *
+    North Korea (조선 민주주의 인민 공화국)+850
+  *
+    Norway (Norge)+47
+  *
+    Oman (‫عُمان‬‎)+968
+  *
+    Pakistan (‫پاکستان‬‎)+92
+  *
+    Palau+680
+  *
+    Palestine (‫فلسطين‬‎)+970
+  *
+    Panama (Panamá)+507
+  *
+    Papua New Guinea+675
+  *
+    Paraguay+595
+  *
+    Peru (Perú)+51
+  *
+    Philippines+63
+  *
+    Poland (Polska)+48
+  *
+    Portugal+351
+  *
+    Puerto Rico+1
+  *
+    Qatar (‫قطر‬‎)+974
+  *
+    Réunion (La Réunion)+262
+  *
+    Romania (România)+40
+  *
+    Russia (Россия)+7
+  *
+    Rwanda+250
+  *
+    Saint Barthélemy+590
+  *
+    Saint Helena+290
+  *
+    Saint Martin (Saint-Martin (partie française))+590
+  *
+    Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon)+508
+  *
+    Samoa+685
+  *
+    San Marino+378
+  *
+    São Tomé and Príncipe (São Tomé e Príncipe)+239
+  *
+    Saudi Arabia (‫المملكة العربية السعودية‬‎)+966
+  *
+    Senegal (Sénégal)+221
+  *
+    Serbia (Србија)+381
+  *
+    Seychelles+248
+  *
+    Sierra Leone+232
+  *
+    Singapore+65
+  *
+    Sint Maarten+1721
+  *
+    Slovakia (Slovensko)+421
+  *
+    Slovenia (Slovenija)+386
+  *
+    Solomon Islands+677
+  *
+    Somalia (Soomaaliya)+252
+  *
+    South Africa+27
+  *
+    South Korea (대한민국)+82
+  *
+    South Sudan (‫جنوب السودان‬‎)+211
+  *
+    Spain (España)+34
+  *
+    Sri Lanka (ශ්‍රී ලංකාව)+94
+  *
+    Sudan (‫السودان‬‎)+249
+  *
+    Suriname+597
+  *
+    Svalbard and Jan Mayen+47
+  *
+    Swaziland+268
+  *
+    Sweden (Sverige)+46
+  *
+    Switzerland (Schweiz)+41
+  *
+    Syria (‫سوريا‬‎)+963
+  *
+    Taiwan (台灣)+886
+  *
+    Tajikistan+992
+  *
+    Tanzania+255
+  *
+    Thailand (ไทย)+66
+  *
+    Timor-Leste+670
+  *
+    Togo+228
+  *
+    Tokelau+690
+  *
+    Tonga+676
+  *
+    Tunisia (‫تونس‬‎)+216
+  *
+    Turkey (Türkiye)+90
+  *
+    Turkmenistan+993
+  *
+    Tuvalu+688
+  *
+    Uganda+256
+  *
+    Ukraine (Україна)+380
+  *
+    United Arab Emirates (‫الإمارات العربية المتحدة‬‎)+971
+  *
+    United Kingdom+44
+  *
+    United States+1
+  *
+    Uruguay+598
+  *
+    Uzbekistan (Oʻzbekiston)+998
+  *
+    Vanuatu+678
+  *
+    Vatican City (Città del Vaticano)+39
+  *
+    Venezuela+58
+  *
+    Vietnam (Việt Nam)+84
+  *
+    Wallis and Futuna (Wallis-et-Futuna)+681
+  *
+    Western Sahara (‫الصحراء الغربية‬‎)+212
+  *
+    Yemen (‫اليمن‬‎)+967
+  *
+    Zambia+260
+  *
+    Zimbabwe+263
+  *
+    Åland Islands+358
+
+REGISTER NOW
+
+webinar_success Thank you for registering Join Edureka Meetup community
+for 100+ Free Webinars each month JOIN MEETUP GROUP
+<https://www.meetup.com/edureka/>
+
+
+      Subscribe to our Newsletter, and get personalized recommendations.
+
+Google Sign up with Google facebook Signup with Facebook
+
+Already have an account? Sign in <#>.
+×
+
+×
+
+
+        20,00,000 learners love us!
+        Get personalised resources in your inbox.
+
+/
+
+/ Sign up with Gmail
+
+/
+
+/ Sign up with Facebook
+
+OR
+
+// Please provide a valid input
+Name is required.Name is required.
+Email is requiredPlease enter a valid email address
+Please enter a value
+Password must have
+
+At least 1 upper-case and 1 lower-case letter
+
+Minimum 8 characters and Maximum 50 characters
+
+SIGN UP
+
+Already have an Edureka Account? Login
+// Please enter a valid emailid
+Email is requiredPlease enter a valid email address
+Password is requiredPassword should be atleast 8 characters
+
+Forgot Password? <javascript:void(0)>
+LOGIN
+
+Don’t have edureka account? Sign Up
+//
+resend ?
+Password must have
+
+At least 1 upper-case and 1 lower-case letter
+
+Minimum 8 characters and Maximum 50 characters
+
+reset password
+
+Don’t have edureka account? Sign Up
+//
+reset password
+
+Don’t have edureka account? Sign Up
+//
+Send Code
+
+Don’t have edureka account? Sign Up
+×
+
+imag
+Reshape Your Career!
+Name*
+Email ID*
+Phone Number*
++91
+
+  *
+    India (भारत)+91
+  *
+    United States+1
+  *
+    United Kingdom+44
+  *
+  *
+    Afghanistan (‫افغانستان‬‎)+93
+  *
+    Albania (Shqipëri)+355
+  *
+    Algeria (‫الجزائر‬‎)+213
+  *
+    Andorra+376
+  *
+    Angola+244
+  *
+    Argentina+54
+  *
+    Armenia (Հայաստան)+374
+  *
+    Aruba+297
+  *
+    Australia+61
+  *
+    Austria (Österreich)+43
+  *
+    Azerbaijan (Azərbaycan)+994
+  *
+    Bahamas+1242
+  *
+    Bahrain (‫البحرين‬‎)+973
+  *
+    Bangladesh (বাংলাদেশ)+880
+  *
+    Barbados+1246
+  *
+    Belarus (Беларусь)+375
+  *
+    Belgium (België)+32
+  *
+    Belize+501
+  *
+    Benin (Bénin)+229
+  *
+    Bermuda+1441
+  *
+    Bhutan (འབྲུག)+975
+  *
+    Bolivia+591
+  *
+    Bosnia and Herzegovina (Босна и Херцеговина)+387
+  *
+    Botswana+267
+  *
+    Brazil (Brasil)+55
+  *
+    British Indian Ocean Territory+246
+  *
+    British Virgin Islands+1284
+  *
+    Brunei+673
+  *
+    Bulgaria (България)+359
+  *
+    Burkina Faso+226
+  *
+    Burundi (Uburundi)+257
+  *
+    Cambodia (កម្ពុជា)+855
+  *
+    Cameroon (Cameroun)+237
+  *
+    Canada+1
+  *
+    Cape Verde (Kabu Verdi)+238
+  *
+    Caribbean Netherlands+599
+  *
+    Cayman Islands+1345
+  *
+    Central African Republic (République centrafricaine)+236
+  *
+    Chad (Tchad)+235
+  *
+    Chile+56
+  *
+    China (中国)+86
+  *
+    Christmas Island+61
+  *
+    Cocos (Keeling) Islands+61
+  *
+    Colombia+57
+  *
+    Comoros (‫جزر القمر‬‎)+269
+  *
+    Congo (DRC) (Jamhuri ya Kidemokrasia ya Kongo)+243
+  *
+    Congo (Republic) (Congo-Brazzaville)+242
+  *
+    Cook Islands+682
+  *
+    Costa Rica+506
+  *
+    Côte d’Ivoire+225
+  *
+    Croatia (Hrvatska)+385
+  *
+    Cuba+53
+  *
+    Curaçao+599
+  *
+    Cyprus (Κύπρος)+357
+  *
+    Czech Republic (Česká republika)+420
+  *
+    Denmark (Danmark)+45
+  *
+    Djibouti+253
+  *
+    Dominican Republic (República Dominicana)+1
+  *
+    Ecuador+593
+  *
+    Egypt (‫مصر‬‎)+20
+  *
+    El Salvador+503
+  *
+    Equatorial Guinea (Guinea Ecuatorial)+240
+  *
+    Eritrea+291
+  *
+    Estonia (Eesti)+372
+  *
+    Ethiopia+251
+  *
+    Falkland Islands (Islas Malvinas)+500
+  *
+    Faroe Islands (Føroyar)+298
+  *
+    Fiji+679
+  *
+    Finland (Suomi)+358
+  *
+    France+33
+  *
+    French Guiana (Guyane française)+594
+  *
+    French Polynesia (Polynésie française)+689
+  *
+    Gabon+241
+  *
+    Gambia+220
+  *
+    Georgia (საქართველო)+995
+  *
+    Germany (Deutschland)+49
+  *
+    Ghana (Gaana)+233
+  *
+    Gibraltar+350
+  *
+    Greece (Ελλάδα)+30
+  *
+    Greenland (Kalaallit Nunaat)+299
+  *
+    Grenada+1473
+  *
+    Guadeloupe+590
+  *
+    Guatemala+502
+  *
+    Guernsey+44
+  *
+    Guinea (Guinée)+224
+  *
+    Guinea-Bissau (Guiné Bissau)+245
+  *
+    Guyana+592
+  *
+    Haiti+509
+  *
+    Honduras+504
+  *
+    Hong Kong (香港)+852
+  *
+    Hungary (Magyarország)+36
+  *
+    Iceland (Ísland)+354
+  *
+    India (भारत)+91
+  *
+    Indonesia+62
+  *
+    Iran (‫ایران‬‎)+98
+  *
+    Iraq (‫العراق‬‎)+964
+  *
+    Ireland+353
+  *
+    Isle of Man+44
+  *
+    Israel (‫ישראל‬‎)+972
+  *
+    Italy (Italia)+39
+  *
+    Jamaica+1876
+  *
+    Japan (日本)+81
+  *
+    Jersey+44
+  *
+    Jordan (‫الأردن‬‎)+962
+  *
+    Kazakhstan (Казахстан)+7
+  *
+    Kenya+254
+  *
+    Kiribati+686
+  *
+    Kosovo+383
+  *
+    Kuwait (‫الكويت‬‎)+965
+  *
+    Kyrgyzstan (Кыргызстан)+996
+  *
+    Laos (ລາວ)+856
+  *
+    Latvia (Latvija)+371
+  *
+    Lebanon (‫لبنان‬‎)+961
+  *
+    Lesotho+266
+  *
+    Liberia+231
+  *
+    Libya (‫ليبيا‬‎)+218
+  *
+    Liechtenstein+423
+  *
+    Lithuania (Lietuva)+370
+  *
+    Luxembourg+352
+  *
+    Macau (澳門)+853
+  *
+    Macedonia (FYROM) (Македонија)+389
+  *
+    Madagascar (Madagasikara)+261
+  *
+    Malawi+265
+  *
+    Malaysia+60
+  *
+    Maldives+960
+  *
+    Mali+223
+  *
+    Malta+356
+  *
+    Marshall Islands+692
+  *
+    Martinique+596
+  *
+    Mauritania (‫موريتانيا‬‎)+222
+  *
+    Mauritius (Moris)+230
+  *
+    Mayotte+262
+  *
+    Mexico (México)+52
+  *
+    Micronesia+691
+  *
+    Moldova (Republica Moldova)+373
+  *
+    Monaco+377
+  *
+    Mongolia (Монгол)+976
+  *
+    Montenegro (Crna Gora)+382
+  *
+    Morocco (‫المغرب‬‎)+212
+  *
+    Mozambique (Moçambique)+258
+  *
+    Myanmar (Burma) (မြန်မာ)+95
+  *
+    Namibia (Namibië)+264
+  *
+    Nauru+674
+  *
+    Nepal (नेपाल)+977
+  *
+    Netherlands (Nederland)+31
+  *
+    New Caledonia (Nouvelle-Calédonie)+687
+  *
+    New Zealand+64
+  *
+    Nicaragua+505
+  *
+    Niger (Nijar)+227
+  *
+    Nigeria+234
+  *
+    Niue+683
+  *
+    Norfolk Island+672
+  *
+    North Korea (조선 민주주의 인민 공화국)+850
+  *
+    Norway (Norge)+47
+  *
+    Oman (‫عُمان‬‎)+968
+  *
+    Pakistan (‫پاکستان‬‎)+92
+  *
+    Palau+680
+  *
+    Palestine (‫فلسطين‬‎)+970
+  *
+    Panama (Panamá)+507
+  *
+    Papua New Guinea+675
+  *
+    Paraguay+595
+  *
+    Peru (Perú)+51
+  *
+    Philippines+63
+  *
+    Poland (Polska)+48
+  *
+    Portugal+351
+  *
+    Puerto Rico+1
+  *
+    Qatar (‫قطر‬‎)+974
+  *
+    Réunion (La Réunion)+262
+  *
+    Romania (România)+40
+  *
+    Russia (Россия)+7
+  *
+    Rwanda+250
+  *
+    Saint Barthélemy+590
+  *
+    Saint Helena+290
+  *
+    Saint Martin (Saint-Martin (partie française))+590
+  *
+    Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon)+508
+  *
+    Samoa+685
+  *
+    San Marino+378
+  *
+    São Tomé and Príncipe (São Tomé e Príncipe)+239
+  *
+    Saudi Arabia (‫المملكة العربية السعودية‬‎)+966
+  *
+    Senegal (Sénégal)+221
+  *
+    Serbia (Србија)+381
+  *
+    Seychelles+248
+  *
+    Sierra Leone+232
+  *
+    Singapore+65
+  *
+    Sint Maarten+1721
+  *
+    Slovakia (Slovensko)+421
+  *
+    Slovenia (Slovenija)+386
+  *
+    Solomon Islands+677
+  *
+    Somalia (Soomaaliya)+252
+  *
+    South Africa+27
+  *
+    South Korea (대한민국)+82
+  *
+    South Sudan (‫جنوب السودان‬‎)+211
+  *
+    Spain (España)+34
+  *
+    Sri Lanka (ශ්‍රී ලංකාව)+94
+  *
+    Sudan (‫السودان‬‎)+249
+  *
+    Suriname+597
+  *
+    Svalbard and Jan Mayen+47
+  *
+    Swaziland+268
+  *
+    Sweden (Sverige)+46
+  *
+    Switzerland (Schweiz)+41
+  *
+    Syria (‫سوريا‬‎)+963
+  *
+    Taiwan (台灣)+886
+  *
+    Tajikistan+992
+  *
+    Tanzania+255
+  *
+    Thailand (ไทย)+66
+  *
+    Timor-Leste+670
+  *
+    Togo+228
+  *
+    Tokelau+690
+  *
+    Tonga+676
+  *
+    Tunisia (‫تونس‬‎)+216
+  *
+    Turkey (Türkiye)+90
+  *
+    Turkmenistan+993
+  *
+    Tuvalu+688
+  *
+    Uganda+256
+  *
+    Ukraine (Україна)+380
+  *
+    United Arab Emirates (‫الإمارات العربية المتحدة‬‎)+971
+  *
+    United Kingdom+44
+  *
+    United States+1
+  *
+    Uruguay+598
+  *
+    Uzbekistan (Oʻzbekiston)+998
+  *
+    Vanuatu+678
+  *
+    Vatican City (Città del Vaticano)+39
+  *
+    Venezuela+58
+  *
+    Vietnam (Việt Nam)+84
+  *
+    Wallis and Futuna (Wallis-et-Futuna)+681
+  *
+    Western Sahara (‫الصحراء الغربية‬‎)+212
+  *
+    Yemen (‫اليمن‬‎)+967
+  *
+    Zambia+260
+  *
+    Zimbabwe+263
+  *
+    Åland Islands+358
+
+Your Total Work Experience*
+
+Apply Now
+
+/
+
+/
+
+
+        Awesome
+
+We have recieved your contact details.
+
+You will recieve an email from us shortly.
+
+×
+
+image
+ChatGPT Course is Trending!
+Join the forefront of the cutting-edge language processing and AI
+industry by gaining a thorough understanding of OpenAI ChatGPT. You also
+get hands-on experience on GPT API, GPT-4 and ChatGPT Plus.
+LEARN MORE
+You are here:
+
+ 1. Home <https://www.edureka.co/>
+ 2. Blog <https://www.edureka.co/blog/>
+ 3. DevOps <https://www.edureka.co/blog/category/devops/>
+ 4. What Is Git ? – Explore ... <https://www.edureka.co/blog/what-is-git/>
+
+// <https://www.edureka.co/>
+
+
+        TRENDING CERTIFICATION COURSES
+
+  * DevOps Certification Training
+    <https://www.edureka.co/devops-certification-training>
+  * AWS Architect Certification Training
+    <https://www.edureka.co/aws-certification-training>
+  * Big Data Hadoop Certification Training
+    <https://www.edureka.co/big-data-hadoop-training-certification>
+  * Tableau Training & Certification
+    <https://www.edureka.co/tableau-certification-training>
+  * Python Certification Training for Data Science
+    <https://www.edureka.co/data-science-python-certification-course>
+  * Selenium Certification Training
+    <https://www.edureka.co/selenium-certification-training>
+  * PMP® Certification Exam Training
+    <https://www.edureka.co/pmp-certification-exam-training>
+  * Robotic Process Automation Training using UiPath
+    <https://www.edureka.co/robotic-process-automation-training>
+  * Apache Spark and Scala Certification Training
+    <https://www.edureka.co/apache-spark-scala-certification-training>
+  * Microsoft Power BI Training
+    <https://www.edureka.co/power-bi-certification-training>
+  * Online Java Course and Training
+    <https://www.edureka.co/java-j2ee-training-course>
+  * Python Certification Course
+    <https://www.edureka.co/python-programming-certification-training>
+
+
+        TRENDING MASTERS COURSES
+
+  * Data Scientist Masters Program
+    <https://www.edureka.co/masters-program/data-scientist-certification>
+  * DevOps Engineer Masters Program
+    <https://www.edureka.co/masters-program/devops-engineer-training>
+  * Cloud Architect Masters Program
+    <https://www.edureka.co/masters-program/cloud-architect-training>
+  * Big Data Architect Masters Program
+    <https://www.edureka.co/masters-program/big-data-architect-training>
+  * Machine Learning Engineer Masters Program
+    <https://www.edureka.co/masters-program/machine-learning-engineer-training>
+  * Full Stack Web Developer Masters Program
+    <https://www.edureka.co/masters-program/full-stack-developer-training>
+  * Business Intelligence Masters Program
+    <https://www.edureka.co/masters-program/business-intelligence-certification>
+  * Data Analyst Masters Program
+    <https://www.edureka.co/masters-program/data-analyst-certification>
+  * Test Automation Engineer Masters Program
+    <https://www.edureka.co/masters-program/automation-testing-engineer-training>
+  * Post-Graduate Program in Artificial Intelligence & Machine Learning
+    <https://www.edureka.co/post-graduate/machine-learning-and-ai>
+  * Post-Graduate Program in Big Data Engineering
+    <https://www.edureka.co/post-graduate/big-data-engineering>
+
+
+        COMPANY
+
+  * About us <https://www.edureka.co/about-us>
+  * News & Media <https://www.edureka.co/allmedia>
+  * Reviews <https://www.edureka.co/reviews>
+  * Contact us <https://www.edureka.co/contact-us>
+  * Blog <https://www.edureka.co/blog/>
+  * Community <https://www.edureka.co/community/>
+  * Sitemap <https://www.edureka.co/sitemap>
+  * Blog Sitemap <https://www.edureka.co/blog/sitemap/>
+  * Community Sitemap <https://www.edureka.co/community/sitemap>
+  * Webinars <https://www.edureka.co/webinars>
+
+
+        WORK WITH US
+
+  * Careers <https://www.edureka.co/careers>
+  * Become an Instructor <https://www.edureka.co/instructors/add>
+  * Become an Affiliate <https://www.edureka.co/affiliate-program>
+  * Become a Partner <https://www.edureka.co/partners>
+  * Hire from Edureka <https://www.edureka.co/hire-from-edureka>
+
+
+        DOWNLOAD APP
+
+apple_store <https://itunes.apple.com/in/app/edureka/id1033145415?mt=8>
+google_playstore
+<https://play.google.com/store/apps/details?id=co.edureka.app>
+
+
+          CATEGORIES
+
+
+        CATEGORIES
+
+  * Cloud Computing
+    <https://www.edureka.co/cloud-computing-certification-courses>
+  * DevOps <https://www.edureka.co/devops-certification-courses>
+  * Big Data <https://www.edureka.co/big-data-and-analytics>
+  * Data Science <https://www.edureka.co/data-science-certification-courses>
+  * BI and Visualization
+    <https://www.edureka.co/bi-and-visualization-certification-courses>
+  * Programming & Frameworks
+    <https://www.edureka.co/programming-and-frameworks-certification-courses>
+  * Software Testing
+    <https://www.edureka.co/software-testing-certification-courses>
+  * Project Management and Methodologies
+    <https://www.edureka.co/project-management-and-methodologies-certification-courses>
+  * Robotic Process Automation
+    <https://www.edureka.co/robotic-process-automation-certification-courses>
+  * Frontend Development
+    <https://www.edureka.co/frontend-development-certification-courses>
+  * Data Warehousing and ETL
+    <https://www.edureka.co/data-warehousing-and-etl-certification-courses>
+  * Artificial Intelligence
+    <https://www.edureka.co/artificial-intelligence-certification-courses>
+  * Blockchain <https://www.edureka.co/blockchain-certification-courses>
+  * Databases <https://www.edureka.co/databases-certification-courses>
+  * Cyber Security
+    <https://www.edureka.co/cyber-security-certification-courses>
+  * Mobile Development
+    <https://www.edureka.co/mobile-development-certification-courses>
+  * Operating Systems
+    <https://www.edureka.co/operating-systems-certification-courses>
+  * Architecture & Design Patterns
+    <https://www.edureka.co/architecture-and-design-patterns-certification-courses>
+  * Digital Marketing
+    <https://www.edureka.co/digital-marketing-certification-courses>
+
+
+          TRENDING BLOG ARTICLES
+
+
+        TRENDING BLOG ARTICLES
+
+      o Selenium tutorial <https://www.edureka.co/blog/selenium-tutorial>
+      o Selenium interview questions
+        <https://www.edureka.co/blog/interview-questions/selenium-interview-questions-answers/>
+      o Java tutorial <https://www.edureka.co/blog/java-tutorial/>
+      o What is HTML <https://www.edureka.co/blog/what-is-html/>
+      o Java interview questions
+        <https://www.edureka.co/blog/interview-questions/java-interview-questions/>
+      o PHP tutorial
+        <https://www.edureka.co/blog/php-tutorial-for-beginners/>
+      o JavaScript interview questions
+        <https://www.edureka.co/blog/interview-questions/javascript-interview-questions/>
+      o Spring tutorial <https://www.edureka.co/blog/spring-tutorial/>
+      o PHP interview questions
+        <https://www.edureka.co/blog/interview-questions/php-interview-questions/>
+      o Inheritance in Java
+        <https://www.edureka.co/blog/inheritance-in-java/>
+      o Polymorphism in Java
+        <https://www.edureka.co/blog/polymorphism-in-java/>
+      o Spring interview questions
+        <https://www.edureka.co/blog/interview-questions/spring-interview-questions/>
+      o Pointers in C <https://www.edureka.co/blog/pointers-in-c/>
+      o Linux commands <https://www.edureka.co/blog/linux-commands/>
+      o Android tutorial <https://www.edureka.co/blog/android-tutorial/>
+      o JavaScript tutorial
+        <https://www.edureka.co/blog/javascript-tutorial/>
+      o jQuery tutorial <https://www.edureka.co/blog/jquery-tutorial/>
+      o SQL interview questions
+        <https://www.edureka.co/blog/interview-questions/sql-interview-questions>
+      o MySQL tutorial <https://www.edureka.co/blog/mysql-tutorial/>
+      o Machine learning tutorial
+        <https://www.edureka.co/blog/machine-learning-tutorial/>
+      o Python tutorial <https://www.edureka.co/blog/python-tutorial/>
+      o What is machine learning
+        <https://www.edureka.co/blog/what-is-machine-learning/>
+      o Ethical hacking tutorial
+        <https://www.edureka.co/blog/ethical-hacking-tutorial/>
+      o SQL injection <https://www.edureka.co/blog/sql-injection-attack>
+      o AWS certification career opportunities
+        <https://www.edureka.co/blog/aws-certification-career-opportunities-in-amazon-web-services>
+      o AWS tutorial <https://www.edureka.co/blog/amazon-aws-tutorial/>
+      o What Is cloud computing
+        <https://www.edureka.co/blog/what-is-cloud-computing/>
+      o What is blockchain <https://www.edureka.co/blog/what-is-blockchain/>
+      o Hadoop tutorial <https://www.edureka.co/blog/hadoop-tutorial/>
+      o What is artificial intelligence
+        <https://www.edureka.co/blog/what-is-artificial-intelligence>
+      o Node Tutorial <https://www.edureka.co/blog/nodejs-tutorial/>
+      o Collections in Java <https://www.edureka.co/blog/java-collections/>
+      o Exception handling in java
+        <https://www.edureka.co/blog/java-exception-handling>
+      o Python Programming Language
+        <https://www.edureka.co/blog/python-programming-language>
+      o Python interview questions
+        <https://www.edureka.co/blog/interview-questions/python-interview-questions/>
+      o Multithreading in Java <https://www.edureka.co/blog/java-thread/>
+      o ReactJS Tutorial <https://www.edureka.co/blog/reactjs-tutorial>
+      o Data Science vs Big Data vs Data Analytics
+        <https://www.edureka.co/blog/data-science-vs-big-data-vs-data-analytics/>
+      o Software Testing Interview Questions
+        <https://www.edureka.co/blog/interview-questions/software-testing-interview-questions/>
+      o R Tutorial <https://www.edureka.co/blog/r-tutorial/>
+      o Java Programs <https://www.edureka.co/blog/java-programs/>
+      o JavaScript Reserved Words and Keywords
+        <https://www.edureka.co/blog/javascript-reserved-words/>
+      o Implement thread.yield() in Java: Examples
+        <https://www.edureka.co/blog/thread-yield-in-java/>
+      o Implement Optical Character Recognition in Python
+        <https://www.edureka.co/blog/optical-character-recognition-in-python/>
+      o All you Need to Know About Implements In Java
+        <https://www.edureka.co/blog/implements-in-java/>
+
+© 2023 Brain4ce Education Solutions Pvt. Ltd. All rights Reserved. Terms
+& Conditions <https://www.edureka.co/terms-and-conditions> Legal &
+Privacy <https://www.edureka.co/privacy-policy>
+// <https://www.facebook.com/edurekaIN> //
+<https://twitter.com/edurekaIN> //
+<https://www.linkedin.com/company/edureka> //
+<https://www.youtube.com/user/edurekaIN>
+
+"PMP®","PMI®", "PMI-ACP®" and "PMBOK®" are registered marks of the
+Project Management Institute, Inc. MongoDB®, Mongo and the leaf logo are
+the registered trademarks of MongoDB, Inc.
+image not found!
+image not found!
+
+
+        What Is Git ? – Explore A Distributed Version Control Tool
+
+edureka.co
+
+image not found!
+Whatsapp
+<https://api.whatsapp.com/send?phone&text=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool%20%20https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dwhatsapp%20%20%23Edureka&app_absent=0>
+image not found!
+Linkedin
+<https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dlinkedin&title=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool&summary=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Toolhttps%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dlinkedin%23Edureka&source=https%3A%2F%2Fwww.edureka.co%2Fblog>
+image not found!
+Twitter
+<https://twitter.com/intent/tweet?text=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool%20%20%23Edureka&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dtwitter&via=edurekain%20#Edureka>
+image not found!
+Facebook
+<https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dfacebook&quote=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool%20%20https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dfacebook%20%20%23Edureka>
+image not found!
+Reddit
+<https://www.reddit.com/submit?url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-git%3Futm_source%3Dsocialsharing%26utm_campaign%3Dreddit&title=What%20Is%20Git%20%3F%20%26%238211%3B%20Explore%20A%20Distributed%20Version%20Control%20Tool>
+Copy Link image not found!
+
+// preload imagepreload image
